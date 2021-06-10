@@ -1,15 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="nav">
+      <h3 style="display:inline-block; padding-right:10em">Nationalizing Epics</h3>
+      <router-link to="/" class="nav-item">HOME</router-link> 
+      <router-link to="/about" class="nav-item">ABOUT</router-link>
+      <router-link to="/teaching" class="nav-item">TEACHING</router-link>
+  </div>
+  <router-view />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
   }
 }
 </script>
@@ -21,6 +24,21 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
+
+.nav-item{
+  padding:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+p, ul {
+  margin-left:5em;
+  margin-right:5em;
+  text-align:left;
+
+}
+
+
+
 </style>
