@@ -62,6 +62,24 @@
 					[15.016996, 51.106674]
 				]
 			]
+		},
+		"type": "Feature",
+		"id": "FIN",
+		"properties": {
+			"name": "Finland",
+			"author": "Ilona Pikkanen (Finnish Literature Society)",
+			"email": "ilona.pikkanen@finlit.fi",
+			"website": "https://www.finlit.fi/en/dr-ilona-pikkanen#.YL1uUC1h124",
+			"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/finland.jpg",
+			"description": "My chapter will bear out George Brandes’ claim, made in his 1903 “study of the land, people, and literature” of Poland, that in Adam Mickiewicz’s 1834 poem Pan Tadeusz “Poland possesses the only successful epic [the nineteenth] century has produced.” I first outline briefly the epic tradition in Polish literature, from Piotr Kochanowski’s 1618 translation of Tasso’s Gerusalemme Liberata to (the miscarried) efforts to produce a national epic according to classicist specifications. I then situate Pan Tadeusz within the tradition of Western foundational epics, epitomized by Vergil’s Aeneid, on the one hand; and the romantic horizon of expectations (as articulated above all by the Polish critic Maurycy Mochnacki) of what might constitute a national epic, on the other, with a view toward the Herderian—modern—concept of nation. As such, Pan Tadeusz constitutes a “social drama” (Victor Turner) that enacts the passage of an effete premodern society on the verge of extinction to a revitalized, nationally conscious collective. I conclude by arguing that the poem’s status as Poland’s national epic is as much a function of its reception by the immediate, post-romantic generation as it is by Mickiewicz’s epic intentions."
+		},
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+				[
+					[28.59193,69.064777],[28.445944,68.364613],[29.977426,67.698297],[29.054589,66.944286],[30.21765,65.80598],[29.54443,64.948672],[30.444685,64.204453],[30.035872,63.552814],[31.516092,62.867687],[31.139991,62.357693],[30.211107,61.780028],[28.069998,60.503517],[26.255173,60.423961],[24.496624,60.057316],[22.869695,59.846373],[22.290764,60.391921],[21.322244,60.72017],[21.544866,61.705329],[21.059211,62.607393],[21.536029,63.189735],[22.442744,63.81781],[24.730512,64.902344],[25.398068,65.111427],[25.294043,65.534346],[23.903379,66.006927],[23.56588,66.396051],[23.539473,67.936009],[21.978535,68.616846],[20.645593,69.106247],[21.244936,69.370443],[22.356238,68.841741],[23.66205,68.891247],[24.735679,68.649557],[25.689213,69.092114],[26.179622,69.825299],[27.732292,70.164193],[29.015573,69.766491],[28.59193,69.064777]
+				]
+			]
 		}
 	}]
 }
