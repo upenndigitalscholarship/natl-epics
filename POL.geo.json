@@ -75,7 +75,7 @@
 				"image": "none",
 				"description": "No description so far."
 			},
-			"gemoetry": {
+			"geometry": {
 				"type": "MultiPolygon",
 				"coordinates": [
 					[
@@ -511,7 +511,7 @@
 				"description": "The turbulent first hundred years of the Greek State (1828-1923) were formative in developing a modern national identity. Major political and social upheavals led to extensive changes in the intellectual life of the young country. The Homeric epics formed part of the education of the Greek-speaking elite throughout the Byzantine empire, but the two long poems (very different in character and poetic style) never became national epics. Only after the formation of the Modern Greek state did the Homeric texts assume some national epic characteristics-- but they were read in translation, since their archaic poetic diction was incomprehensible for most readers. The discovery of vernacular redactions of the Byzantine Tale of Digenis Akritis in the later nineteenth century, and of associated folk-songs with Digenis as hero, suggested that this material belongs to an epic that could be called national. My chapter will examine various aspects of the presence of Homer and of the Digenis Akritis in Greece. Translations and popularizations of the ancient epics gained political charge around the turn of the 20th century, and the travails of Odysseus in the Odyssey served as a metaphor for the fate of Greek people over centuries as exiles and immigrants. Various adaptations of the Digenis were made for the stage in heroic or even comic guises. This chapter will include input from high-school students from Thessalonica who have been been taught Homer and the Digenis at school-- which leads us to question whether any text currently serves as “national epic” or even “anti-epic” as the country struggles to recover from the financial crisis of 2009 and the pandemic."
 			},
 			"geometry": {
-				"type": "Multipolygon",
+				"type": "MultiPolygon",
 				"coordinates": [
 					[
 						[
@@ -958,6 +958,18 @@
 						[87.751264, 49.297198]
 					]
 				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "none",
+			"properties": {
+				"name": "Saint Lucia",
+				"author": "none",
+				"email": "none",
+				"website": "none",
+				"image": "none",
+				"description": "none."
 			}
 		}
 	]
