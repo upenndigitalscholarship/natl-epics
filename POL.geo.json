@@ -4,7 +4,7 @@
 			"type": "Feature",
 			"id": "POL",
 			"properties": {
-				"color": "#F7455D",
+				"color": "#66c2a5",
 				"name": "Poland",
 				"author": "Roman Koropeckyi (UCLA)",
 				"email": "koropeck@humnet.ucla.edu",
@@ -71,7 +71,7 @@
 			"type": "Feature",
 			"id": "FIN",
 			"properties": {
-				"color": "blue",
+				"color": "#fc8d62",
 				"name": "Finland",
 				"author": "Ilona Pikkanen (Finnish Literature Society)",
 				"email": "ilona.pikkanen@finlit.fi",
@@ -129,7 +129,7 @@
 			"type": "Feature",
 			"id": "GRC",
 			"properties": {
-				"color": "blue",
+				"color": "#8da0cb",
 				"name": "Greece",
 				"author": "Panagiotis A. Agapitos",
 				"email": "agapitos.p.panagiotis@ucy.ac.cy",
@@ -209,7 +209,7 @@
 			"type": "Feature",
 			"id": "ISL",
 			"properties": {
-				"color": "red",
+				"color": "#e78ac3",
 				"name": "Iceland",
 				"author": "Sif Ríkharðsdóttir",
 				"email": "sifr@hi.is",
@@ -251,7 +251,7 @@
 			"type": "Feature",
 			"id": "KOR",
 			"properties": {
-				"color": "blue",
+				"color": "#a6d854",
 				"name": "South Korea",
 				"author": "Minsoo Kang",
 				"email": "kangmi@umsl.edu",
