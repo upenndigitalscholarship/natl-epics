@@ -286,7 +286,56 @@
 				]
 			}
 		},
-
+		{
+			"type": "Feature",
+			"id": "DNK",
+			"properties": {
+				"color": "#3B727C",
+				"name": "Denmark",
+				"author": "Lars Boje Mortensen",
+				"email": "labo@sdu.dk",
+				"website": "https://danish-ias.dk/people/lars-boje-mortensen-danish-ias/",
+				"image": "https://github.com/chradil/natl-epics/blob/liandra/images/denmark.jpeg?raw=true",
+				"description": "Saxo’s History of the Danes (Gesta Danorum), finished around 1208, has all the credentials of a national epic: it is of venerable age, it is long (c. 750 pp), it makes grand claims for a small nation, it is written in artful prose and even includes extensive poems, it is heroic, it covers an impressive timespan. But for the romantic intellectuals it came with one fatal flaw: it was written in Latin. The book therefore never got even close to the status of the otherwise comparable Heimskringla in Norway or Nibelungen in Germany. In my chapter I will focus on the prolific romanticist decades c. 1800-1830 in which the new desire for a national epic text circled in frustration around Gesta Danorum and other texts – incl. Beowulf with its Danish setting. The main protagonist of my piece is the leading figure of N.F.S. Grundtvig (1783-1872), translator, author, national mobilizer, churchman and more, seconded by the popular author B.S. Ingemann (1789-1862) and scholars such as C. Molbech (1783-1857) and P.E. Müller (1776-1834). Their romantic aspirations for revitalizing the heritage of pagan or medieval Danish culture were sharpened by the national disasters following in the wake of Denmark’s siding with Napoleon: a national bankruptcy was declared in 1813, and the following year the monarchy lost Norway. The search for an epic produced much excellent literature and scholarship, but ultimately failed. Since then the Danish canon developed along multiple lines, but would never count a medieval classic as part of it. Perhaps new translations as well as global Latin and global English is about to get Saxo more readers than ever before."
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+				"coordinates": [
+				[
+					[
+						[12.690006, 55.609991],
+						[12.089991, 54.800015],
+						[11.043543, 55.364864],
+						[10.903914, 55.779955],
+						[12.370904, 56.111407],
+						[12.690006, 55.609991]
+					]
+				],
+				[
+					[
+						[10.912182, 56.458621],
+						[10.667804, 56.081383],
+						[10.369993, 56.190007],
+						[9.649985, 55.469999],
+						[9.921906, 54.983104],
+						[9.282049, 54.830865],
+						[8.526229, 54.962744],
+						[8.120311, 55.517723],
+						[8.089977, 56.540012],
+						[8.256582, 56.809969],
+						[8.543438, 57.110003],
+						[9.424469, 57.172066],
+						[9.775559, 57.447941],
+						[10.580006, 57.730017],
+						[10.546106, 57.215733],
+						[10.25, 56.890016],
+						[10.369993, 56.609982],
+						[10.912182, 56.458621]
+					]
+				]
+			]
+			}
+		},
 		{
 			"type": "Feature",
 			"id": "ROU",
@@ -360,8 +409,8 @@
 				"author": "Jenna Mead and Philip Mead",
 				"email": "philip.mead@uwa.edu.au , jenna.mead@uwa.edu.au",
 				"website": "https://research-repository.uwa.edu.au/en/persons/philip-mead , https://research-repository.uwa.edu.au/en/persons/jenna-mead",
-				"image": "",
-				"description": "description here."
+				"image": "https://github.com/chradil/natl-epics/blob/liandra/images/australia.jpg?raw=true",
+				"description": "What is your national epic? Both terms are a challenge for Australia, a settler nation with origins in the history of British colonialism. Here and now, the thing that characterizes Australia as a nation is unresolved sovereignty, a latent sentiment that is growing fast and deeply felt. The sovereignty of white Australia is mainstream and dominant—including the English language enshrined in foundational documents like the Constitution—but also unstable, incomplete, and illegitimate for an increasing number of Australians. First nation Australians are asserting their claims to a sovereignty that was never ceded. ‘Always was, always will be Aboriginal land’ is a powerful dictum in public discourse. These shifts must inflect the idea of national epic. As elsewhere, the reality of the Australian nation is in process rather than resolved. There is no single Australian national epic. Candidates include Marcus Clarke’s convict novel For the Term of His Natural Life (1870-1872, 1874), Eleanor Dark’s trilogy of national settlement The Timeless Land (1941), James McAuley’s sectarian poem of maritime discovery Captain Quiros (1964) and Patrick White’s The Tree of Man (1955).  We will focus primarily on novels that, in containing history and envisioning nation, can be counted as epics. Henry Handel Richardson’s trilogy, The Fortunes of Richard Mahony (1930) and Alexis Wright’s Carpentaria (2006) trace an arc along which time, nation and history refract through life-stories of individually conceived but representative characters. These novels share formal aspects germane to the epical work of nation: each reworks the European and modern novel. Richardson reworks the structural achievements of the realist novel to historicize a nation through the tragic life of her protagonist while Wright reconceptualizes the magical realist novel’s form and language to write Aboriginal deep time."
 			},
 			"geometry": {
 				"type": "MultiPolygon",
