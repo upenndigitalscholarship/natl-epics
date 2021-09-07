@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"id": "BLR",
 			"properties": {
-				"color": "#66c2a5",
+				"color": "#b59243",
 				"name": "Belarus",
 				"author": "Sasha Razor (UCLA)",
 				"email": "sasharazor@ucla.edu",
@@ -69,7 +69,7 @@
 			"type": "Feature",
 			"id": "FRA",
 			"properties": {
-				"color": "#66c2a5",
+				"color": "#74b8f0",
 				"name": "France",
 				"author": "Jacques Darras (Picardy)",
 				"email": "jacdar@wanadoo.fr",
@@ -306,7 +306,7 @@
 			"type": "Feature",
 			"id": "IRN",
 			"properties": {
-				"color": "#66c2a5",
+				"color": "#3683b7",
 				"name": "Iran",
 				"author": "Mahmoud Omidsalar",
 				"email": "Mahmoud.omidsalar@gmail.com",
@@ -401,7 +401,7 @@
 			"type": "Feature",
 			"id": "NZL",
 			"properties": {
-				"color": "#66c2a5",
+				"color": "#757496",
 				"name": "New Zealand",
 				"author": "Michelle Keown (University of Edinburgh)",
 				"email": "michelle.keown@ed.ac.uk",
