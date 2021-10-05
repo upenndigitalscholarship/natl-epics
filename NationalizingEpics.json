@@ -3,16 +3,70 @@
 	"features": [
 		{
 			"type": "Feature",
+			"id": "MTQ",
+			"properties": {
+				"color": "#b59243",
+				"name": "Martinique",
+				"author": "Myriam Moïse (University of the West Indies, Mona, Jamaica)",
+				"email": "myriam.moise@fulbrightmail.org",
+				"website":"https://www.caribbeanstudiesassociation.org/myriam-moise/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/martinique.png",
+				"caption": "Mount Pelée, Martinique, 1912",
+				"description": "The island of Martinique (Martinican Matinik or Matnik) lies directly north of St Lucia and (further south) Trinidad. As a départemente of France, it is a special territory of the European union, and its currency is the euro. Almost everyone on the island speaks French and Martinican creole; the speaking of Kalinago, an Arawakan language, faded in the early twentieth century under intense colonialist pressure. Three of the most influential anti-colonialist writers of the region (or of any region) emerged from Martinique: Aimé Césaire (1913-2008), Franz Fanon (1925-1961), and Édouard Glissant (1928-2011). Texts such as Aimé Césaire's Cahier d'un retour au pays natal, (1939) and Fanon's The Wretched of the Earth (1961), and also the work of Glissant, contribute to and draw from the movement of négritude, which was also shaped and documented by women writers. Jeanne Nardal (1900-1993) and Paulette Nardal (1896-1985), theorized the movement and laid important connections with the Harlem Renaissance; Suzanne Césaire edited Tropiques, the most influential Francophone Caribbean journal. Édouard Glissant was shortlisted for the Noble Prize in 1992, when it was awarded an epical poet from the island fifty miles to the south: Derek Walcott (see 'St Lucia' chapter). Many major writers from Martinique were drawn to contemplation of wide, epical spaces: Glissant developed a notion of Antillanité, evoking a space stretching to Latin America, whereas Aimé Césaire emphasized African cathections. Landscapes of Martinican space remain of vital concern today, as writers ponder relations between poetry and ecology in light of what is now a distinguished, and highly influential, literary tradition."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[ -60.86084,14.40278 ],
+						 [ -60.88695,14.46556 ],
+						[ -60.97501,14.47139 ],
+						[ -61.01112,14.47 ],
+						[ -61.03389,14.46583 ],
+						[ -61.1725,14.69305 ],
+						 [ -61.23167,14.80944 ],
+						[ -61.23139,14.81555 ],
+						[ -61.22667,14.83222 ],
+						[ -61.21278,14.84667 ],
+						 [ -61.19862,14.85889 ],
+						  [ -61.17473,14.87694 ],
+						[ -61.165,14.88028 ],
+						[ -61.15862,14.88 ],
+						[ -61.14473,14.87778 ],
+						[ -61.10001,14.86139 ],
+						[ -61.09473,14.85917 ],
+						[ -61.03973,14.83194 ],
+						[ -61.03445,14.82917 ],
+						[ -60.94083,14.74083 ],
+						[ -60.94251,14.72778 ],
+						[ -60.90667,14.6525 ],
+						[ -60.84972,14.59472 ],
+						[ -60.82973,14.57 ],
+						[ -60.81722,14.47611 ],
+						[ -60.81667,14.47055 ],
+						[ -60.82056,14.45583 ],
+						[ -60.82695,14.43972 ],
+						 [ -60.82917,14.43444 ],
+						 [ -60.83945,14.41528 ],
+						  [ -60.855,14.40306 ],
+						  [ -60.86084,14.40278 ]
+
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "STL",
 			"properties": {
 				"color": "#b59243",
 				"name": "St. Lucia",
-				"author": "Geraldine Skeete (UWI St Augustine, Trinidad & Tobago)",
-				"email": "Geraldine.Skeete@sta.uwi.edu",
-				"website":"https://sta.uwi.edu/fhe/dlcc/dr-geraldine-skeete",
-				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/trinidad.jpg",
-				"caption": "Michael Goldberg Collection, The Alma Jordan Library, The University of the West Indies",
-				"description": "The twin-island nation Trinidad and Tobago achieved independence from British colonial rule in 1962 and became a Republic in 1976.  Although small in geographical size, the country almost paradoxically requires the prefix “multi-” as a descriptor of its racial, ethnic, cultural, religious, and linguistic diversity due to the legacies of slavery, indentureship, and the migration of peoples from Europe, Asia, other Caribbean islands, and regions of the Americas to its shores. The southernmost island in the Caribbean, and just seven miles from Venezuela, Trinidad’s demographic trends continue to be influenced by this South American country. Home to the pitch lake, one of the seven wonders of the world, re-discovered by Sir Walter Raleigh in 1595 and immortalized, too, in the title of Trinidadian Alfred H. Mendes’s novel Pitch Lake (1934), Trinidad relies more on its petrochemicals than its tourism industry-- unlike Tobago and most of its Caribbean neighbors. In addition, there is a complex economic and sociopolitical history of having changed hands among the Spanish, French, and British during the days of European colonization—with Tobago also having experienced such attempts by the Swedes and the Dutch. Therefore, the islands have since the days of colonialism and political independence been charting and celebrating their own unique sense of national identities and forms of artistic expression even amid the throes of racism and racial politics, classism, colorism, neocolonialism, and other isms and schisms that are legacies of the past.  Its creative writers—emerging, contemporary, and canonical— among them the late Trinidad-born Nobel Laureate V.S Naipaul, have variously represented the triumphs and failures of these pre- and postcolonial conditions and environments in ‘epic’ literatures—in prose, poetic, and dramatic forms—which have contributed to the canonization of both the Trinidad and Tobago and Caribbean literary traditions."
+				"author": "Antonia MacDonald (St George's University, Grenada)",
+				"email": "AMacDona@sgu.edu",
+				"website":"https://www.sgu.edu/research/sgu-research/antonia-macdonald-phd/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/stlucia.jpg",
+				"caption": "the Titon mountains, St Lucia",
+				"description": "In this chapter, I establish St. Lucia’s national epic as its story of coming into artistic being in the face of innumerable colonial setbacks. At the heart of this exploration is a calibration of epicity that is the sum of the efforts of the poet and playwright, Derek Walcott; the dramatist, Roderick Walcott; the painter, Dunstan St. Omer; and the novelist, Garth St. Omer.  The creative activities of this quartet of St. Lucian artists go beyond the literary. Accordingly, my focus is on the wide-ranging artistic endeavors of these four men as they brought St. Lucia’s social, cultural, and natural landscape into focus. I argue that in their creative processes, they repurposed the topoi of the epic to suit an emergent national imaginary. Drawing inspiration from the island as muse—the land, the sea and the people—these Creatives harmonized a praisesong of their island.  Their polyvocal composition not only resonated deeply with a local audience, but also allowed St. Lucia—dubbed ‘Helen of the West’ for its incomparable beauty—to gain international acclaim, and to partake of the epic grandeur of the famed Helen of Troy. Sampling the pre-Independence creative works of this quartet, the chapter compares the strengths and successes of the different genres within which they were working.  Moreover, I explore how, in entering into aesthetic conversation with each other, the Walcott brothers and the St. Omer cousins were consciously and unconsciously theorizing the contribution of the artist to national history and values. I conclude by showing how these men, all active members of the now-defunct St. Lucia Arts Guild, formed a sustaining community that allowed for continued artistic growth and the propagation of deep intertextual influences.  Their legacies continue to enrich the island’s creative enterprises and allow for the ongoing composition of a national epic."
 			},
 			"geometry": {
 				"type": "Polygon",
