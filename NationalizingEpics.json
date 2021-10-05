@@ -3,6 +3,63 @@
 	"features": [
 		{
 			"type": "Feature",
+			"id": "STL",
+			"properties": {
+				"color": "#b59243",
+				"name": "St. Lucia",
+				"author": "Geraldine Skeete (UWI St Augustine, Trinidad & Tobago)",
+				"email": "Geraldine.Skeete@sta.uwi.edu",
+				"website":"https://sta.uwi.edu/fhe/dlcc/dr-geraldine-skeete",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/trinidad.jpg",
+				"caption": "Michael Goldberg Collection, The Alma Jordan Library, The University of the West Indies",
+				"description": "The twin-island nation Trinidad and Tobago achieved independence from British colonial rule in 1962 and became a Republic in 1976.  Although small in geographical size, the country almost paradoxically requires the prefix “multi-” as a descriptor of its racial, ethnic, cultural, religious, and linguistic diversity due to the legacies of slavery, indentureship, and the migration of peoples from Europe, Asia, other Caribbean islands, and regions of the Americas to its shores. The southernmost island in the Caribbean, and just seven miles from Venezuela, Trinidad’s demographic trends continue to be influenced by this South American country. Home to the pitch lake, one of the seven wonders of the world, re-discovered by Sir Walter Raleigh in 1595 and immortalized, too, in the title of Trinidadian Alfred H. Mendes’s novel Pitch Lake (1934), Trinidad relies more on its petrochemicals than its tourism industry-- unlike Tobago and most of its Caribbean neighbors. In addition, there is a complex economic and sociopolitical history of having changed hands among the Spanish, French, and British during the days of European colonization—with Tobago also having experienced such attempts by the Swedes and the Dutch. Therefore, the islands have since the days of colonialism and political independence been charting and celebrating their own unique sense of national identities and forms of artistic expression even amid the throes of racism and racial politics, classism, colorism, neocolonialism, and other isms and schisms that are legacies of the past.  Its creative writers—emerging, contemporary, and canonical— among them the late Trinidad-born Nobel Laureate V.S Naipaul, have variously represented the triumphs and failures of these pre- and postcolonial conditions and environments in ‘epic’ literatures—in prose, poetic, and dramatic forms—which have contributed to the canonization of both the Trinidad and Tobago and Caribbean literary traditions."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[ -60.95473,13.70944 ],
+						[ -60.95612,13.715 ],
+						 [ -60.96806,13.72805 ],
+						[ -60.98639,13.74444 ],
+						 [ -60.995,13.74972 ],
+						[ -61.0014,13.75083 ],
+						 [ -61.01445,13.75 ],
+						 [ -61.02612,13.7525 ],
+						  [ -61.03917,13.76139 ],
+						   [ -61.05056,13.77056 ],
+						    [ -61.06751,13.78861 ],
+						  [ -61.07278,13.79694 ],
+						   [ -61.07445,13.80194 ],
+						   [ -61.07501,13.80805 ],
+						   [ -61.07973,13.87333 ],
+						   [ -61.07945,13.88 ],
+						    [ -61.07501,13.89694 ],
+						     [ -61.035,13.96972 ],
+						      [ -61.01167,14.00972 ],
+						      [ -60.94584,14.10472 ],
+						       [ -60.93639,14.10917 ],
+						     [ -60.93028,14.10944 ],
+						     [ -60.91972,14.10556 ],
+						     [ -60.91584,14.1025 ],
+						     [ -60.91445,14.09972 ],
+						     [ -60.88806,14.01305 ],
+						     [ -60.87862,13.97583 ],
+						     [ -60.87806,13.95667 ],
+						     [ -60.88528,13.85417 ],
+						     [ -60.88612,13.84806 ],
+						     [ -60.89001,13.82361 ],
+						     [ -60.90028,13.77833 ],
+						      [ -60.93834,13.71778 ],
+						      [ -60.95139,13.71 ],
+						      [ -60.95473,13.70944 ]
+
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "TTO",
 			"properties": {
 				"color": "#b59243",
