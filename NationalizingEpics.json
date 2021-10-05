@@ -1,60 +1,7 @@
 {
 	"type": "FeatureCollection",
 	"features": [
-		{
-			"type": "Feature",
-			"id": "MTQ",
-			"properties": {
-				"color": "#b59243",
-				"name": "Martinique",
-				"author": "Myriam Moïse (University of the West Indies, Mona, Jamaica)",
-				"email": "myriam.moise@fulbrightmail.org",
-				"website":"https://www.caribbeanstudiesassociation.org/myriam-moise/",
-				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/Martinique.png",
-				"caption": "Mount Pelée, Martinique, 1912",
-				"description": "The island of Martinique (Martinican Matinik or Matnik) lies directly north of St Lucia and (further south) Trinidad. As a départemente of France, it is a special territory of the European union, and its currency is the euro. Almost everyone on the island speaks French and Martinican creole; the speaking of Kalinago, an Arawakan language, faded in the early twentieth century under intense colonialist pressure. Three of the most influential anti-colonialist writers of the region (or of any region) emerged from Martinique: Aimé Césaire (1913-2008), Franz Fanon (1925-1961), and Édouard Glissant (1928-2011). Texts such as Aimé Césaire's Cahier d'un retour au pays natal, (1939) and Fanon's The Wretched of the Earth (1961), and also the work of Glissant, contribute to and draw from the movement of négritude, which was also shaped and documented by women writers. Jeanne Nardal (1900-1993) and Paulette Nardal (1896-1985), theorized the movement and laid important connections with the Harlem Renaissance; Suzanne Césaire edited Tropiques, the most influential Francophone Caribbean journal. Édouard Glissant was shortlisted for the Noble Prize in 1992, when it was awarded an epical poet from the island fifty miles to the south: Derek Walcott (see 'St Lucia' chapter). Many major writers from Martinique were drawn to contemplation of wide, epical spaces: Glissant developed a notion of Antillanité, evoking a space stretching to Latin America, whereas Aimé Césaire emphasized African cathections. Landscapes of Martinican space remain of vital concern today, as writers ponder relations between poetry and ecology in light of what is now a distinguished, and highly influential, literary tradition."
-			},
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[ -60.86084,14.40278 ],
-						 [ -60.88695,14.46556 ],
-						[ -60.97501,14.47139 ],
-						[ -61.01112,14.47 ],
-						[ -61.03389,14.46583 ],
-						[ -61.1725,14.69305 ],
-						 [ -61.23167,14.80944 ],
-						[ -61.23139,14.81555 ],
-						[ -61.22667,14.83222 ],
-						[ -61.21278,14.84667 ],
-						 [ -61.19862,14.85889 ],
-						  [ -61.17473,14.87694 ],
-						[ -61.165,14.88028 ],
-						[ -61.15862,14.88 ],
-						[ -61.14473,14.87778 ],
-						[ -61.10001,14.86139 ],
-						[ -61.09473,14.85917 ],
-						[ -61.03973,14.83194 ],
-						[ -61.03445,14.82917 ],
-						[ -60.94083,14.74083 ],
-						[ -60.94251,14.72778 ],
-						[ -60.90667,14.6525 ],
-						[ -60.84972,14.59472 ],
-						[ -60.82973,14.57 ],
-						[ -60.81722,14.47611 ],
-						[ -60.81667,14.47055 ],
-						[ -60.82056,14.45583 ],
-						[ -60.82695,14.43972 ],
-						 [ -60.82917,14.43444 ],
-						 [ -60.83945,14.41528 ],
-						  [ -60.855,14.40306 ],
-						  [ -60.86084,14.40278 ]
 
-					]
-				]
-			}
-		},
 		{
 			"type": "Feature",
 			"id": "STL",
@@ -2164,10 +2111,10 @@
 			"properties": {
 				"color": "#FF5733",
 				"name": "Martinique",
-				"author": "Myriam Moïse",
+				"author": "Myriam Moïse (University of the West Indies, Mona, Jamaica)",
 				"email": "myriam.moise@fulbrightmail.org",
-				"website": " ",
-				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/Martinique.jpg",
+				"website": "https://www.caribbeanstudiesassociation.org/myriam-moise/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/Martinique.png",
 				"description": "The island of Martinique (Martinican Matinik or Matnik) lies directly north of St Lucia and (further south) Trinidad. As a départemente of France, it is a special territory of the European union, and its currency is the euro. Almost everyone on the island speaks French and Martinican creole; the speaking of Kalinago, an Arawakan language, faded in the early twentieth century under intense colonialist pressure. Three of the most influential anti-colonialist writers of the region (or of any region) emerged from Martinique: Aimé Césaire (1913-2008), Franz Fanon (1925-1961), and Édouard Glissant (1928-2011). Texts such as Aimé Césaire's Cahier d'un retour au pays natal, (1939) and Fanon's The Wretched of the Earth (1961), and also the work of Glissant, contribute to and draw from the movement of négritude, which was also shaped and documented by women writers. Jeanne Nardal (1900-1993) and Paulette Nardal (1896-1985), theorized the movement and laid important connections with the Harlem Renaissance; Suzanne Césaire edited Tropiques, the most influential Francophone Caribbean journal. Édouard Glissant was shortlisted for the Noble Prize in 1992, when it was awarded an epical poet from the island fifty miles to the south: Derek Walcott (see 'St Lucia' chapter). Many major writers from Martinique were drawn to contemplation of wide, epical spaces: Glissant developed a notion of Antillanité, evoking a space stretching to Latin America, whereas Aimé Césaire emphasized African cathections. Landscapes of Martinican space remain of vital concern today, as writers ponder relations between poetry and ecology in light of what is now a distinguished, and highly influential, literary tradition."
 			},
 			"geometry": {
