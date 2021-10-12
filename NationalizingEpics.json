@@ -1,7 +1,45 @@
 {
 	"type": "FeatureCollection",
 	"features": [
+		{
+			"type": "Feature",
+			"id": "KHM",
+			"properties": {
+				"color": "#8dd3c7",
+				"name": "Cambodia",
+				"author": "Grégory Mikaelian (CNRS, Paris) (translated by Samantha Pious)",
+				"email": "deltadumekong@yahoo.com",
+				"website":"https://angkordatabase.asia/authors/gregory-mikaelian",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/cambodia.jpg",
+				"caption": "Rām marries Setā",
+				"description": "Saveros Pou has brought to light the central position of the Rāmakerti in the court society of the ‘Middle Period.’ Studying that period, which corresponds to our premodern era, she has discovered sixteenth- and seventeenth-century manuscript sources that contain the first substantial written trace of the Cambodian version of the Indian epic Rāmāyaṇa. This text, which may be akin to a libretto, was put to a singular use: as a psalmodic accompaniment to the palace dancers, these stanzas, which have become a classic of Cambodian literature, participated in a royal eulogy that was intended to repair the dereliction of a world caught in the grip (it was believed) of chaos. Theatrically evoking the third age of the world (the dvāparayug, during which, according to the epic, Rāma, avatār of Viṣṇu, savior of all men who deserve salvation, is incarnated here on earth), the dancers exalted the glorious aspect of the reigning monarch, made one with Rāma, at once cakravartin king and boddhisattva, battling against the dark forces of Rāvaṇa, the demon king of Laṅkā, to spread the truth of Buddhism. In donning the masks and costumes of Rāma, Sītā, Rāvaṇa, or Hanumān on the occasions of royal ceremonies (enthronement, royal funerals, etc.), these dancers were not actors representing the golden age of a triumphant Buddhism associated with the ‘glory of Rāma’ (which is the meaning of the word Rāmakerti) but rather priestesses officiating at a religious celebration. There is every reason to believe that the divinity they summoned to sanctify the glory of the king was Umā, the consort of Śiva, who had long been charged with the protection of the realm. This was, in effect, one of many reconfigurations of the tutelar deity of the Angkor dynasty, the famous Devarāja."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[103.49728, 10.632555],
+					[103.09069, 11.153661],
+					[102.584932, 12.186595],
+					[102.348099, 13.394247],
+					[102.988422, 14.225721],
+					[104.281418, 14.416743],
+					[105.218777, 14.273212],
+					[106.043946, 13.881091],
+					[106.496373, 14.570584],
+					[107.382727, 14.202441],
+					[107.614548, 13.535531],
+					[107.491403, 12.337206],
+					[105.810524, 11.567615],
+					[106.24967, 10.961812],
+					[105.199915, 10.88931],
+					[104.334335, 10.486544],
+					[103.49728, 10.632555]
 
+					]
+				]
+			}
+		},
 		{
 			"type": "Feature",
 			"id": "STL",
@@ -1528,25 +1566,10 @@
 				"description": "The turbulent first hundred years of the Greek State (1828-1923) were formative in developing a modern national identity. Major political and social upheavals led to extensive changes in the intellectual life of the young country. The Homeric epics formed part of the education of the Greek-speaking elite throughout the Byzantine empire, but the two long poems (very different in character and poetic style) never became national epics. Only after the formation of the Modern Greek state did the Homeric texts assume some national epic characteristics-- but they were read in translation, since their archaic poetic diction was incomprehensible for most readers. The discovery of vernacular redactions of the Byzantine Tale of Digenis Akritis in the later nineteenth century, and of associated folk-songs with Digenis as hero, suggested that this material belongs to an epic that could be called national. My chapter will examine various aspects of the presence of Homer and of the Digenis Akritis in Greece. Translations and popularizations of the ancient epics gained political charge around the turn of the 20th century, and the travails of Odysseus in the Odyssey served as a metaphor for the fate of Greek people over centuries as exiles and immigrants. Various adaptations of the Digenis were made for the stage in heroic or even comic guises. This chapter will include input from high-school students from Thessalonica who have been been taught Homer and the Digenis at school-- which leads us to question whether any text currently serves as “national epic” or even “anti-epic” as the country struggles to recover from the financial crisis of 2009 and the pandemic."
 			},
 			"geometry": {
-				"type": "MultiPolygon",
+				"type": "Polygon",
 				"coordinates": [
 					[
-						[
-							[23.69998, 35.705004],
-							[24.246665, 35.368022],
-							[25.025015, 35.424996],
-							[25.769208, 35.354018],
-							[25.745023, 35.179998],
-							[26.290003, 35.29999],
-							[26.164998, 35.004995],
-							[24.724982, 34.919988],
-							[24.735007, 35.084991],
-							[23.514978, 35.279992],
-							[23.69998, 35.705004]
-						]
-					],
-					[
-						[
+						
 							[26.604196, 41.562115],
 							[26.294602, 40.936261],
 							[26.056942, 40.824123],
@@ -1592,7 +1615,7 @@
 							[26.604196, 41.562115]
 						]
 					]
-				]
+				
 			}
 		},
 		{
