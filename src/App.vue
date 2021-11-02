@@ -1,6 +1,8 @@
 <template>
   <div id="nav">
-      <h3 style="display:inline-block; padding-right:10em">Nationalizing Epics</h3>
+      <h3 style="display:inline-block; padding-right:10em; text-align:left">Nationalizing Epics
+      
+      </h3>
       <router-link to="/" class="nav-item">HOME</router-link> 
       <router-link to="/about" class="nav-item">ABOUT</router-link>
       <router-link to="/teaching" class="nav-item">TEACHING</router-link>
@@ -18,6 +20,7 @@ export default {
 </script>
 
 <style>
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
