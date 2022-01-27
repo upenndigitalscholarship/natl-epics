@@ -24,23 +24,117 @@ export default {
       const map = new mapboxgl.Map({
         container: "map",
         style: "mapbox://styles/mapbox/light-v9",
+        maxBounds: [
+[-170, -75], // Southwest coordinates
+[180, 85] // Northeast coordinates
+]
       });
 
       map.on("load", () => {
+
+      map.setLayoutProperty('place-islands', 'text-field', [
+          'format',
+          ['get', 'name_en'],
+            { 'font-scale': 1 }
+            ])
+
+      //look for label layer id
+        const layers = map.getStyle().layers;
+        console.log(layers);
+        // Find the index of the first symbol layer in the map style.
+        let firstSymbolId;
+        for (const layer of layers) {
+          if (layer.type === 'symbol') {
+            firstSymbolId = layer.id;
+            break;
+          }
+        }
+
         // Here we want to load a layer
         map.addSource("pol", {
           type: "geojson",
           data:
             "https://raw.githubusercontent.com/chradil/natl-epics/main/NationalizingEpics.json"
         });
-        map.addLayer({
+
+        //add source layer for islands that are too small to see
+        map.addSource('points', {
+          'type': 'geojson',
+          'data': {
+          'type': 'FeatureCollection',
+          'features': [
+              {
+                'type': 'Feature',
+                'geometry': {
+                'type': 'Point',
+                'coordinates': [
+                -61.004920,14.636340
+                 ]
+                },
+                'properties': {
+                'title': 'Martinique'
+                }
+              },
+              {
+                'type': 'Feature',
+                'geometry': {
+                'type': 'Point',
+                'coordinates': [-60.981111,13.906608]
+                },
+                'properties': {
+                  'title': 'Saint Lucia'
+                }
+              },
+              {
+                'type': 'Feature',
+                'geometry': {
+                'type': 'Point',
+                'coordinates': [ -61.249901,10.459993]
+                },
+                'properties': {
+                  'title': 'Trinidad & Tobago'
+                }
+              }
+          ]
+        }
+      });
+      map.addLayer({
+        'id': 'points',
+        'type': 'symbol',
+        'minzoom':2,
+        'source': 'points',
+        'layout': {
+        'icon-image': 'custom-marker',
+        // get the title name from the source's "title" property
+        'text-field': ['get', 'title'],
+        'text-font': [
+        'DIN Offc Pro Medium',
+        'Arial Unicode MS Regular'
+        ],
+        'text-offset': [0, 1.25],
+        'text-anchor': 'center',
+        },
+        'paint':{
+          "text-color": "#6b6b6b",
+          "text-halo-blur": 0,
+          "text-halo-color": "#fff",
+          "text-halo-width": 1.25
+        }
+        });
+
+        map.addLayer(
+        {
           id: "pol-fill",
           type: "fill",
           source: "pol",
           paint: {
-            "fill-color": ["get","color"]
-          }
-        });
+            "fill-color": ["get","color"],
+            "fill-opacity": 0.7
+            }
+        },
+        firstSymbolId
+      );
+
         // Here we want to setup the dropdown
         map.on("click", "pol-fill", function (e) {
         console.log(e);
@@ -78,7 +172,7 @@ export default {
   width:25px;
   position:absolute;
   background-color:white;
-  opacity:0.8;
+  opacity:0.9;
   overflow-y:hidden;
   padding:10px;
 }
