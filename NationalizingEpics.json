@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"id": "MLI",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#a6cee3",
 				"name": "Mali",
 				"author": "Jan Jansen (Leiden University)",
 				"email": "JANSENJ@FSW.leidenuniv.nl",
@@ -103,7 +103,7 @@
 			"type": "Feature",
 			"id": "CHL",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#1f78b4",
 				"name": "Chile",
 				"author": "Maxwell Samuel Woods (Universidad Adolfo Ibáñez, Chile) and Stefanie Massman Wyneken (Universidad Andrés Bello, Chile)",
 				"email": "maxwell.woods@uai.cl, smassmann@unab.cl",
@@ -245,7 +245,7 @@
 			"type": "Feature",
 			"id": "ZAF",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#b2df8a",
 				"name": "South Africa",
 				"author": "Rita Barnard (University of Pennsylvania)",
 				"email": "rita.barnard66@gmail.com",
@@ -362,7 +362,7 @@
 			"type": "Feature",
 			"id": "COL",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#33a02c",
 				"name": "Colombia",
 				"author": "Nicolás Pernett (Universidad Javeriana, Colombia) and Álvaro Santana-Acuña (Whitman College, USA)",
 				"email": "nicolaspernett@javeriana.edu.co, santana@whitman.edu",
@@ -484,7 +484,7 @@
 			"type": "Feature",
 			"id": "MEX",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#fb9a99",
 				"name": "Mexico",
 				"author": "Jorge Téllez (University of Pennsylvania)",
 				"email": "jtellez@sas.upenn.edu",
@@ -676,7 +676,7 @@
 			"type": "Feature",
 			"id": "PAK",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#fdbf6f",
 				"name": "Pakistan",
 				"author": "Ruqayya Y Khan (Claremont Graduate University)",
 				"email": "ruqayya.khan@cgu.edu",
@@ -764,7 +764,7 @@
 			"type": "Feature",
 			"id": "SLA",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#ff7f00",
 				"name": "Sri Lanka",
 				"author": "Philip Friedrich (Social Science Research Council, USA)",
 				"email": "pfriedri@gmail.com",
@@ -796,7 +796,7 @@
 			"type": "Feature",
 			"id": "ITA",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#cab2d6",
 				"name": "Italy",
 				"author": "Jane Tylus (Yale University)",
 				"email": "jane.tylus@yale.edu",
@@ -915,7 +915,7 @@
 			"type": "Feature",
 			"id": "ESP",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#6a3d9a",
 				"name": "Spain",
 				"author": "Michael Solomon (University of Pennsylvania)",
 				"email": "solomonm@sas.upenn.edu",
@@ -988,7 +988,7 @@
 			"type": "Feature",
 			"id": "THA",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#ffff99",
 				"name": "Thailand",
 				"author": "Gritya Rattanakantadilok (Prince of Songkla University, Thailand)",
 				"email": "gritiya.r@psu.ac.th",
@@ -1073,7 +1073,7 @@
 			"type": "Feature",
 			"id": "CUB",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#b15928",
 				"name": "Cuba",
 				"author": "Raúl Marrero-Fente (University of Minnesota)",
 				"email": "rmarrero@umn.edu",
@@ -1136,7 +1136,7 @@
 			"type": "Feature",
 			"id": "SVK",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#bc80bd",
 				"name": "Slovakia",
 				"author": "Zuzana Panczová (Slovak Academy of Sciences) and Marta Fülöpová (Comenius University)",
 				"email": "zuzana.panczova@savba.sk and marta.fulopova@uniba.sk",
@@ -1190,7 +1190,7 @@
 			"type": "Feature",
 			"id": "ARM",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#b3de69",
 				"name": "Armenia",
 				"author": "Zaroui Pogossian (University of Florence, Italy)",
 				"email": "Zaroui.pogossian@unifi.it",
@@ -1232,7 +1232,7 @@
 			"type": "Feature",
 			"id": "GTM",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#35978f",
 				"name": "Guatemala",
 				"author": "Edyta Andzel-O'Shanahan (Dublin, Ireland)",
 				"email": "eandzel@yahoo.co.uk",
@@ -1288,7 +1288,7 @@
 			"type": "Feature",
 			"id": "EGY",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#7fcdbb",
 				"name": "Egypt",
 				"author": "",
 				"email": "",
@@ -1351,7 +1351,7 @@
 			"type": "Feature",
 			"id": "MNG",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#c7e9b4",
 				"name": "Mongolia",
 				"author": "Christopher Pratt Attwood (University of Pennsylvania)",
 				"email": "catwood@sas.upenn.edu",
@@ -1447,7 +1447,7 @@
 			"type": "Feature",
 			"id": "LVA",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#225ea8",
 				"name": "Latvia",
 				"author": "Ojārs Lāms (University of Latvia)",
 				"email": "ojars.lams@lu.lv",
@@ -1491,7 +1491,7 @@
 			"id": "CZE",
 			"properties": {
 				"color": "#fdb462",
-				"name": "Czechia",
+				"name": "#fe9929",
 				"author": "Matouš Jaluška (Czech Academy of Sciences)",
 				"email": "jaluska@ucl.cas.cz",
 				"website":"https://ucl.cas.cz/pracovnik/jaluska/",
@@ -1546,7 +1546,7 @@
 			"type": "Feature",
 			"id": "BGR",
 			"properties": {
-				"color": "#fdb462",
+				"color": "#807dba",
 				"name": "Bulgaria",
 				"author": "Todor Hristov (Sofia University)",
 				"email": "tdechev@uni-sofia.bg",
