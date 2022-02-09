@@ -57,6 +57,214 @@
 				]
 			}
 		},
+		{
+			"type": "Feature",
+			"id": "GTM",
+			"properties": {
+				"color": "#fdb462",
+				"name": "Guatemala",
+				"author": "Edyta Andzel-O'Shanahan (Dublin, Ireland)",
+				"email": "eandzel@yahoo.co.uk",
+				"website":"https://www.researchgate.net/scientific-contributions/Edyta-Andzel-OShanahan-2130801996",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/guatemala.jpg",
+				"caption": "Hero Twins, the Popol Vuh",
+				"description": "The only written version of the sacred book of the Maya K'iche', the Popol Vuh, that has survived to this day was most likely copied by the Spanish friar Francisco Ximénez from a mid-sixteenth-century manuscript preserved for posterity in the town of Chichicastenango. Many archaeologists and epigraphists posit, however, that the system of beliefs underlying the epic dates back a millenium before the Spanish conquest. Central themes of the Popol Vuh as we know it today include mythical cosmogony, the cyclical nature of time, anthropogony, the life cycle of vegetation, as well as the history and genealogy of the K'iche' people. To a large extent, mythical narratives owe their remarkable longevity and their capacity for re-emergence in works of art to the role they play in defining cultural identities. Recognising the Maya Book of Counsel as a national epic underlines the continuity of tradition between the pre-Hispanic civilisation and the modern Guatemalan nation. Yet the question of national identity remains complex in Guatemala, especially given the heterogeneity of its society and the deep trauma of the civil war (1960-1996). While the practice of incorporating elements of the Maya mythology into Guatemalan literary fiction has won international acclaim, including the 1967 Nobel Prize awarded to Miguel Ángel Asturias, it has also raised significant controversy. In recent decades, Maya activism has highlighted the importance of self-representation in both the political and the cultural arena. Accordingly, paradigms in critical studies have shifted towards decolonial perspectives, with increasing emphasis on indigenous Maya literary production. The focal point of the chapter, therefore, will be the topos of metamorphosis, interweaving the symbolism of the Popol Vuh and its reformulation in modern indigenous and non-indigenous fiction with a broader context of national identity in Guatemala/Iximulew."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[-90.095555, 13.735338],
+					[-90.608624, 13.909771],
+					[-91.23241, 13.927832],
+					[-91.689747, 14.126218],
+					[-92.22775, 14.538829],
+					[-92.20323, 14.830103],
+					[-92.087216, 15.064585],
+					[-92.229249, 15.251447],
+					[-91.74796, 16.066565],
+					[-90.464473, 16.069562],
+					[-90.438867, 16.41011],
+					[-90.600847, 16.470778],
+					[-90.711822, 16.687483],
+					[-91.08167, 16.918477],
+					[-91.453921, 17.252177],
+					[-91.002269, 17.254658],
+					[-91.00152, 17.817595],
+					[-90.067934, 17.819326],
+					[-89.14308, 17.808319],
+					[-89.150806, 17.015577],
+					[-89.229122, 15.886938],
+					[-88.930613, 15.887273],
+					[-88.604586, 15.70638],
+					[-88.518364, 15.855389],
+					[-88.225023, 15.727722],
+					[-88.68068, 15.346247],
+					[-89.154811, 15.066419],
+					[-89.22522, 14.874286],
+					[-89.145535, 14.678019],
+					[-89.353326, 14.424133],
+					[-89.587343, 14.362586],
+					[-89.534219, 14.244816],
+					[-89.721934, 14.134228],
+					[-90.064678, 13.88197],
+					[-90.095555, 13.735338]
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "SVK",
+			"properties": {
+				"color": "#fdb462",
+				"name": "Slovakia",
+				"author": "Zuzana Panczová (Slovak Academy of Sciences) and Marta Fülöpová (Comenius University)",
+				"email": "zuzana.panczova@savba.sk and marta.fulopova@uniba.sk",
+				"website":"https://uesa.sav.sk/?q=en/zuzana-panczova-galiova-mgr-phd",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/slovakia.jpg",
+				"caption": "steel statue of Jánošík at his birthplace, Terchová, unveiled 1988 (ZP)",
+				"description": "Symbols and narratives of Slovak nationalism developed mostly in the 19th-century with Romantic nationalist revivalism, responding primarily to the extant symbolism of other nations. Some such nations inspired emulation in Slovakian nationalists, others a desire for counter-distinction. As a small nation whose territory had formed part of the Kingdom of Hungary since the 11th century, Slovakia clung to myths of a glorious past in the pre-Hungarian era. The history of Great Moravia and its prominent figures, such as Duke Svätopluk and Saints Cyril and Methodius, ‘Apostles to the Slavs,’ were thus celebrated in the Classicising heroic epics by poet Ján Hollý; Romantics later added motifs of victimhood and Realists of outsiderism. National self-representation repeatedly posits a small, ethnically and socially oppressed nation, hardworking Slovaks trapped for a millennium within the Kingdom of Hungary, vividly symbolised by outlaw Juraj Jánošík. This son of poor Slovak peasants, who ‘took from the rich, gave to the poor,’ was executed while still young by hanging from a hook. National legendary tradition depicts him as the victim of foreign or denationalised nobility; Romantics add suggestions of a messianic sacrifice, offered on behalf of the nation (as in Ján Botto's lyrical-epic poem Smrť Jánošíkova, Jánošík´s Death. In the 20th and 21st centuries, Great-Moravian legends and tales of Jánošík became part not only of modern Slovak statehood, but also of ideological scheming and new political clashes. References to Great Moravia and the Cyril-Methodius tradition have been much revived as state symbols and national myths since 1989. We will highlight important moments of instrumentalizing such motifs (Great Moravia's glorious past, Jánošík as folk-national martyr) both in artistic creation and political discourse in Slovakia from the 19th century until the present moment."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[18.853144, 49.49623],
+					[18.909575, 49.435846],
+					[19.320713, 49.571574],
+					[19.825023, 49.217125],
+					[20.415839, 49.431453],
+					[20.887955, 49.328772],
+					[21.607808, 49.470107],
+					[22.558138, 49.085738],
+					[22.280842, 48.825392],
+					[22.085608, 48.422264],
+					[21.872236, 48.319971],
+					[20.801294, 48.623854],
+					[20.473562, 48.56285],
+					[20.239054, 48.327567],
+					[19.769471, 48.202691],
+					[19.661364, 48.266615],
+					[19.174365, 48.111379],
+					[18.777025, 48.081768],
+					[18.696513, 47.880954],
+					[17.857133, 47.758429],
+					[17.488473, 47.867466],
+					[16.979667, 48.123497],
+					[16.879983, 48.470013],
+					[16.960288, 48.596982],
+					[17.101985, 48.816969],
+					[17.545007, 48.800019],
+					[17.886485, 48.903475],
+					[17.913512, 48.996493],
+					[18.104973, 49.043983],
+					[18.170498, 49.271515],
+					[18.399994, 49.315001],
+					[18.554971, 49.495015],
+					[18.853144, 49.49623]
+					]
+				]
+			}
+		},
+			{
+			"type": "Feature",
+			"id": "ARM",
+			"properties": {
+				"color": "#fdb462",
+				"name": "Armenia",
+				"author": "Zaroui Pogossian (University of Florence, Italy)",
+				"email": "Zaroui.pogossian@unifi.it",
+				"website":"https://www.unifi.it/p-doc2-2020-0-A-2d2b3a303829-0.html",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/armenia.jpg",
+				"caption": "Hakob Kojian, David of Sasun, 1922.",
+				"description": "The year 1874 marked a turning point for what Armenians would come to consider their national epic. The erudite cleric (later bishop), ethnographer, historian, and political activist Garegin Sruandzteants‘ published in Constantinople (now Istanbul) David of Sasun or the Gate of Mher. It was based on the oral recitation by Krpo from the village of Aṙnist (near the town of Mush in present-day Turkey). Sruadzteants‘ feared that the down-to-earth folk tale with its ‘crude’ dialect would be harshly criticized, but the publication received overwhelmingly positive reactions from prominent Armenian intellectuals and public figures around the world. This led to further ethnographic research and recordings of new versions, and between then and now more than 150 variants have been written down or (later) recorded. This chapter will explore the extraordinary fortunes of these narratives, a complex cycle for which the collective title Daredevils of Sasun may be more representative. Heroes from the various branches of the epic became protagonists of Armenian poetry, drama, musical compositions, and art. The epic became a rich repository of artistic inspiration, political reflection, and meaning-making in the key, dramatic events of modern Armenian history, from the Genocide to the Communist Revolution, from Armenians participation in World War II to the war of independence for Arst‘akh (Nagornyj Karabakh). In 2012 the recitation of the Daredevils of Sasun was listed among UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity, and  it remains a living text into the present day. My chapter will walk the reader through this incredibly rich history, showing how the Daredevils of Sasun has shaped and continues to shape Armenian national consciousness, guiding reflections on Armenians’ place in the world, both within Armenia and the Diaspora."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[43.582746, 41.092143],
+					[44.97248, 41.248129],
+					[45.179496, 40.985354],
+					[45.560351, 40.81229],
+					[45.359175, 40.561504],
+					[45.891907, 40.218476],
+					[45.610012, 39.899994],
+					[46.034534, 39.628021],
+					[46.483499, 39.464155],
+					[46.50572, 38.770605],
+					[46.143623, 38.741201],
+					[45.735379, 39.319719],
+					[45.739978, 39.473999],
+					[45.298145, 39.471751],
+					[45.001987, 39.740004],
+					[44.79399, 39.713003],
+					[44.400009, 40.005],
+					[43.656436, 40.253564],
+					[43.752658, 40.740201],
+					[43.582746, 41.092143]
+
+					]
+				]
+			}
+		},
+			{
+			"type": "Feature",
+			"id": "GTM",
+			"properties": {
+				"color": "#fdb462",
+				"name": "Guatemala",
+				"author": "Edyta Andzel-O'Shanahan (Dublin, Ireland)",
+				"email": "eandzel@yahoo.co.uk",
+				"website":"https://www.researchgate.net/scientific-contributions/Edyta-Andzel-OShanahan-2130801996",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/guatemala.jpg",
+				"caption": "Hero Twins, the Popol Vuh",
+				"description": "The only written version of the sacred book of the Maya K'iche', the Popol Vuh, that has survived to this day was most likely copied by the Spanish friar Francisco Ximénez from a mid-sixteenth-century manuscript preserved for posterity in the town of Chichicastenango. Many archaeologists and epigraphists posit, however, that the system of beliefs underlying the epic dates back a millenium before the Spanish conquest. Central themes of the Popol Vuh as we know it today include mythical cosmogony, the cyclical nature of time, anthropogony, the life cycle of vegetation, as well as the history and genealogy of the K'iche' people. To a large extent, mythical narratives owe their remarkable longevity and their capacity for re-emergence in works of art to the role they play in defining cultural identities. Recognising the Maya Book of Counsel as a national epic underlines the continuity of tradition between the pre-Hispanic civilisation and the modern Guatemalan nation. Yet the question of national identity remains complex in Guatemala, especially given the heterogeneity of its society and the deep trauma of the civil war (1960-1996). While the practice of incorporating elements of the Maya mythology into Guatemalan literary fiction has won international acclaim, including the 1967 Nobel Prize awarded to Miguel Ángel Asturias, it has also raised significant controversy. In recent decades, Maya activism has highlighted the importance of self-representation in both the political and the cultural arena. Accordingly, paradigms in critical studies have shifted towards decolonial perspectives, with increasing emphasis on indigenous Maya literary production. The focal point of the chapter, therefore, will be the topos of metamorphosis, interweaving the symbolism of the Popol Vuh and its reformulation in modern indigenous and non-indigenous fiction with a broader context of national identity in Guatemala/Iximulew."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[-90.095555, 13.735338],
+					[-90.608624, 13.909771],
+					[-91.23241, 13.927832],
+					[-91.689747, 14.126218],
+					[-92.22775, 14.538829],
+					[-92.20323, 14.830103],
+					[-92.087216, 15.064585],
+					[-92.229249, 15.251447],
+					[-91.74796, 16.066565],
+					[-90.464473, 16.069562],
+					[-90.438867, 16.41011],
+					[-90.600847, 16.470778],
+					[-90.711822, 16.687483],
+					[-91.08167, 16.918477],
+					[-91.453921, 17.252177],
+					[-91.002269, 17.254658],
+					[-91.00152, 17.817595],
+					[-90.067934, 17.819326],
+					[-89.14308, 17.808319],
+					[-89.150806, 17.015577],
+					[-89.229122, 15.886938],
+					[-88.930613, 15.887273],
+					[-88.604586, 15.70638],
+					[-88.518364, 15.855389],
+					[-88.225023, 15.727722],
+					[-88.68068, 15.346247],
+					[-89.154811, 15.066419],
+					[-89.22522, 14.874286],
+					[-89.145535, 14.678019],
+					[-89.353326, 14.424133],
+					[-89.587343, 14.362586],
+					[-89.534219, 14.244816],
+					[-89.721934, 14.134228],
+					[-90.064678, 13.88197],
+					[-90.095555, 13.735338]
+					]
+				]
+			}
+		},
 			{
 			"type": "Feature",
 			"id": "EGY",
