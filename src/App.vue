@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-      <h3 style="display:inline-block; padding-right:10em; text-align:left">Nationalizing Epics
+      <h3 style="display:inline-block; padding-right:10em; text-align:left">National Epics
       
       </h3>
       <router-link to="/" class="nav-item">HOME</router-link> 
