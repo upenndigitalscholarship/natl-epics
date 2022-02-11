@@ -1,5 +1,5 @@
 <template>
-<h1>Teaching with Nationalizing Epics</h1>
+<h1>Teaching with National Epics</h1>
 <p>I first taught courses on national epics at both graduate and undergraduate levels in Fall 2019. The graduate course ran as Lineages of Literary Nationalism, and the undergraduate offering as The National Epic. The latter, taught as a Ben Franklin seminar, the highest level of instruction for Penn undergraduates, required a formal process of curricular approval as a new course. Repeated in modified form as National Epics in Spring 2021, it will be offered again in Spring 2022 (in association with the theme year of the Wolf Humanities Center at Penn in 2021-2, Migration).</p>
 <p> There are five assignments, given here with instructions:</p>
 <li><ul><b>Assignment 1:</b> pass/ pass: a short meditation, of about 500 words or 2 pages, on the theme of personhood and nationhood. You may draw upon your own experiences here, or offer a response to texts and issues covered in class. This will serve a tune up writing exercise and will be especially useful if English is not your first language. We will provide feedback. It will also allow us to get a more detailed and nuanced account of your interests, of what you might hope for in this class.</ul>
