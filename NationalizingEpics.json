@@ -1,6 +1,305 @@
 {
 	"type": "FeatureCollection",
 	"features": [
+			{
+			"type": "Feature",
+			"id": "NLD",
+			"properties": {
+				"color": "#a6cee3",
+				"name": "Netherlands",
+				"author": "Lotte E. Jensen (Radboud University, Nijmegen)",
+				"email": "lotte.jensen@ru.nl",
+				"website":"https://www.ru.nl/english/people/jensen-l/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/netherlands.jpg",
+				"caption": "De Hollandsche natie (1870 edition)",
+				"description": "In 1812 De Hollandsche natie by Jan Frederik Helmers was published, a poetic national epic which argued for Dutch superiority over all other nations in the field of war, the maritime sector, and arts and sciences. His work, full of anti-French sentiments, also reads as a fierce statement against Napoleonic occupation. Helmer’s poem sees the protagonist not as a particular hero, but as the entire Dutch nation. Helmers was clearly inspired by other well-known epics, such as Virgil’s Aeneid and especially Os Lusíadas (1572) by Luis de Camões. By rewriting some fragments of Camões’ poem, Helmers intended to show that the Dutch sea conquerors were superior to the Portuguese. He also derived inspiration from La Henriade (1728) by Voltaire about Henry IV of France. Helmers was also indebted to several 18th-century Dutch epic poems about founders of the fatherland. Examples are Friso (1741) by Willem van Haren, Germanicus (1779) by Lucretia van Merken, Willem de Eerste (1779) by Johannes Nomsz, and M.A. de Ruyter (1784) by Adriaan Loosjes. Their choices of specific ‘founding fathers’ were widely discussed by critics. The poem De Geusen (1771), a collection of Dutch heroic events and persons by Onno Zwier van Haren, can also be seen as a forerunner of Helmer’s poem. Due to nationalist tendencies, however, Helmer’ poem became an instant classic and would be considered the first true national epic in Dutch literary history. Meanwhile, 19th-century scholars searched for older national literary roots in the archives and came up with several texts, such as Reinaert de Vos and Karel ende Elegast. Reinaert de Vos, originally written in the 13th century, became the flagship of Dutch literature, but was also claimed to be of German, Flemish, and French origin. Nowadays, these poems are still widely read in secondary schools, while Helmer’s nationalist verses have fallen out of fashion entirely. "
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[6.074183, 53.510403],
+					[6.90514, 53.482162],
+					[7.092053, 53.144043],
+					[6.84287, 52.22844],
+					[6.589397, 51.852029],
+					[5.988658, 51.851616],
+					[6.156658, 50.803721],
+					[5.606976, 51.037298],
+					[4.973991, 51.475024],
+					[4.047071, 51.267259],
+					[3.314971, 51.345755],
+					[3.830289, 51.620545],
+					[4.705997, 53.091798],
+					[6.074183, 53.510403]
+
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "ALB",
+			"properties": {
+				"color": "#a6cee3",
+				"name": "Albania",
+				"author": "Rigels Halili (University of Warsaw)",
+				"email": "r.halili@uw.edu.pl",
+				"website":"https://www.researchgate.net/profile/Rigels-Halili-2",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/albania.jpg",
+				"caption": "Skanderbeg's monument in the main Tirana's main square (RH)",
+				"description": "Various poems could aspire to the role of Albanian national epic, but two are widely recognized as such: Istori e Skënderbeut (The History of Skanderbeg) by Naim Frashëri (1846-1900), and Lahuta e Malcis’ (The Highland Lute) by Gjergj Fishta OFM (1981-1940). Naim Frashëri is widely perceived as the main poet of the Albanian National Movement, along with his brothers Abdyl and Sami. The History of Skanderbeg belongs to his later works and was seen by the poet as his opus vitae. The poem's 11500 verses follow the life and deeds of Gjergj (George) Kastrioti (1405-1468), known as Skënderbej (Skanderbeg). Naim based his poem mainly on a historical account by the priest Marinus Barletius (c. 1450-c.1513) and used the octosyllabic verse (typical for southern Albanian oral epic and lyric poetry. Skanderbeg appears in this poem as Albania's uncrowned king, a righteous knight beloved by God who opposes (but not fanatically) the Ottoman invasion. Naim turned the 15th century knight into a leading figure of modern Albanian nationalism. Fishta began to publish cantos from his poem in 1907, with the final edition appearing only in 1937 as 17000 lines of octosyllabic verse. Contrary to Naim, who made Skanderbeg a national hero, Fishta chose to tell stories from the Albanian-Montenegrin rivalry of the late 19th and early 20th centuries, transforming local figures into national heroes: common folk who oppose their lands being taken or partitioned, who believe in God, but also seek help from traditional mountains and forests spirits, or zanas (the Albanian name for female fairies living up in the mountains). Like Naim, Fishta created an epic world, an ideal space identifiable in time and space while yet standing as an ideal model for national identity."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+
+					[20.590247, 41.855404],
+					[20.463175, 41.515089],
+					[20.605182, 41.086226],
+					[21.02004, 40.842727],
+					[20.99999, 40.580004],
+					[20.674997, 40.435],
+					[20.615, 40.110007],
+					[20.150016, 39.624998],
+					[19.98, 39.694993],
+					[19.960002, 39.915006],
+					[19.406082, 40.250773],
+					[19.319059, 40.72723],
+					[19.40355, 41.409566],
+					[19.540027, 41.719986],
+					[19.371769, 41.877548],
+					[19.304486, 42.195745],
+					[19.738051, 42.688247],
+					[19.801613, 42.500093],
+					[20.0707, 42.58863],
+					[20.283755, 42.32026],
+					[20.52295, 42.21787],
+					[20.590247, 41.855404]
+
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "DZA",
+			"properties": {
+				"color": "#a6cee3",
+				"name": "Algeria",
+				"author": "Jill Jarvis (Yale University)",
+				"email": "jill.jarvis@yale.edu",
+				"website":"https://french.yale.edu/people/jill-jarvis",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/algeria.jpg",
+				"caption": "Mohamed Issiakhem, Les aveugles",
+				"description": "This chapter focuses—perhaps surprisingly, given the enormous archive of literary works that figure (or disfigure) Algeria’s national epic—on a single novel by the relatively obscure writer Yamina Mechakra entitled La grotte éclatée (the shattered cave). It will discuss the linguistic multiplicity present in the French-language text; will reflect on the novel’s Arabic translations and transmissions; and will bring Mechakra’s text into contact with a series of literary, visual, theatrical, and cinematic works by Kateb Yacine, Assia Djebar, Abdelhamid Benhedouga, and Mohamed Issiakhem—whose painting Les aveugles Mechakra chose for the cover of her novel’s second edition. Composed a decade after Algeria’s hard-fought independence from French colonial occupation in 1962, Mechakra’s novel at first reads like eyewitness first-person testimony of the anticolonial war (1954-1962). At the novel’s midpoint, what at first read as soldier testimony (a monumentalized and epic genre in postcolonial Algeria) is violently shattered and transfigured into something else entirely. This chapter reflects on the unsettling way that Mechakra’s text reworks Algeria’s national epic in fragmented, incomplete, and tragic forms. La grotte éclatée is closely connected to Algerian histories, sensibilities, languages, and terrains; it assumes an almost visceral intimacy with Algerian nationalism, and also alludes to histories of collective indigenous resistance that long predate French, Ottoman, and Arab conquests and colonizations. Mechakra’s text draws on the aesthetic resources of both Greek tragedy and a repertoire of Chaoui and Mozabite song and storytelling practice that she claims equally as her ‘ancestral orality.’ In particular, La grotte éclatée channels and amplifies legends of an icon of Amazigh anticolonial resistance known as the Kahena. The chapter reflects closely on the heterogeneous archive constructed through Mechakra’s subversive intertextual poetics in order to consider crucial tensions between postcolonial Algerian nationalism and contemporary Amazigh indigeneities."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[11.999506, 23.471668],
+					[8.572893, 21.565661],
+					[5.677566, 19.601207],
+					[4.267419, 19.155265],
+					[3.158133, 19.057364],
+					[3.146661, 19.693579],
+					[2.683588, 19.85623],
+					[2.060991, 20.142233],
+					[1.823228, 20.610809],
+					[-1.550055, 22.792666],
+					[-4.923337, 24.974574],
+					[-8.6844, 27.395744],
+					[-8.665124, 27.589479],
+					[-8.66559, 27.656426],
+					[-8.674116, 28.841289],
+					[-7.059228, 29.579228],
+					[-6.060632, 29.7317],
+					[-5.242129, 30.000443],
+					[-4.859646, 30.501188],
+					[-3.690441, 30.896952],
+					[-3.647498, 31.637294],
+					[-3.06898, 31.724498],
+					[-2.616605, 32.094346],
+					[-1.307899, 32.262889],
+					[-1.124551, 32.651522],
+					[-1.388049, 32.864015],
+					[-1.733455, 33.919713],
+					[-1.792986, 34.527919],
+					[-2.169914, 35.168396],
+					[-1.208603, 35.714849],
+					[-0.127454, 35.888662],
+					[0.503877, 36.301273],
+					[1.466919, 36.605647],
+					[3.161699, 36.783905],
+					[4.815758, 36.865037],
+					[5.32012, 36.716519],
+					[6.26182, 37.110655],
+					[7.330385, 37.118381],
+					[7.737078, 36.885708],
+					[8.420964, 36.946427],
+					[8.217824, 36.433177],
+					[8.376368, 35.479876],
+					[8.140981, 34.655146],
+					[7.524482, 34.097376],
+					[7.612642, 33.344115],
+					[8.430473, 32.748337],
+					[8.439103, 32.506285],
+					[9.055603, 32.102692],
+					[9.48214, 30.307556],
+					[9.805634, 29.424638],
+					[9.859998, 28.95999],
+					[9.683885, 28.144174],
+					[9.756128, 27.688259],
+					[9.629056, 27.140953],
+					[9.716286, 26.512206],
+					[9.319411, 26.094325],
+					[9.910693, 25.365455],
+					[9.948261, 24.936954],
+					[10.303847, 24.379313],
+					[10.771364, 24.562532],
+					[11.560669, 24.097909],
+					[11.999506, 23.471668]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "LTU",
+			"properties": {
+				"color": "#a6cee3",
+				"name": "Lithuania",
+				"author": "Mikas Vaicekauskas (Institute of Lithuanian Literature and Folklore)",
+				"email": "mikas.vaicekauskas@gmail.com",
+				"website":"http://www.llti.lt/en/about/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/lithuania.jpg",
+				"caption": "Kristijonas Donelaitis 300th birth anniversary stamp",
+				"description": "During the period of Lithuanian national revival in the late 19th and early 20th centuries, when Lithuania lived under Russian imperial occupation, national literature in the native language was of particular importance for forming Lithuanian national identity. But despite a few earlier, exceptional instances, Lithuanian literature was only just beginning to evolve towards  creating a national cultural field. A national epic could have proved foundational for developing cultural consciousness, but Lithuanians did not have one. And so many poets set out to identify or create home-grown national epics, while others sought to adapt literary works from neighbouring or related cultures. None of these proved satisfactory. In the later 20th century, philologists, ethnologists, and historians tried to find, or to reconstruct, the national epic, detecting alleged epical traces in traditional folk songs, in historical chronicles, or in Renaissance or Baroque heroic poems in Latin. Again, this was not convincing. More recently, the narrative poem Metai (The Seasons), composed between 1765 and 1775 by Kristijonas Donelaitis, a Lutheran priest living in the Kingdom of Prussia, has come to be considered as a possible national epic. Donelaitis is now unanimously regarded as Lithuania's first national poet, and his Metai as an unsurpassed national poetic work. Metai was not earlier unknown or suppressed, but was not apprehended as a national epic. The poem tells of peasants’ daily and seasonal lives, or of the totality of life, and does  features some of the essential properties of classical epic: versification (hexameter), artistic devices (hyperbole, etc.), lexical features, speeches and dialogues, catalogues, a leaning towards absolutisation, moral imperatives, didacticism, God-given order, and the idea of cyclical time. Modern cultural consciousness can thus, retrospectively, regard Metai as the national epic that was so much needed in the years when national identity or national spirit was taking shape."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[22.731099, 54.327537],
+					[22.651052, 54.582741],
+					[22.757764, 54.856574],
+					[22.315724, 55.015299],
+					[21.268449, 55.190482],
+					[21.0558, 56.031076],
+					[22.201157, 56.337802],
+					[23.878264, 56.273671],
+					[24.860684, 56.372528],
+					[25.000934, 56.164531],
+					[25.533047, 56.100297],
+					[26.494331, 55.615107],
+					[26.588279, 55.167176],
+					[25.768433, 54.846963],
+					[25.536354, 54.282423],
+					[24.450684, 53.905702],
+					[23.484128, 53.912498],
+					[23.243987, 54.220567],
+					[22.731099, 54.327537]
+
+
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "SVN",
+			"properties": {
+				"color": "#a6cee3",
+				"name": "Slovenia",
+				"author": "Marko Juvan (Research Center of the Slovenian Academy of Sciences and Arts, Ljubljana)",
+				"email": "marko.juvan@zrc-sazu.si",
+				"website":"https://isllv.zrc-sazu.si/en/sodelavci/marko-juvan-en",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/slovenia.jpg",
+				"caption": "Hinko Smrekar (1883-1942 [shot dead as a hostage by fascists during WWII]), 'Krst pri Savici', published in Življenje in svet, 1936, no. 15.",
+				"description": "In his Byronic verse-tale Baptism on the Savica (Krst pri Savici, 1836), the Slovenian poet France Prešeren (1800–49) depicts the downfall of an epic hero who is forced to renounce the destroyed proto-national community of Slavic peoples and submit to supranational and victorious Christianity. Prešeren’s theme, taken from Carniolan historiography, is the defeat of the uprising of the pagan Alpine Slavs against the Christian army in the eighth century, during which they lost their cultural and political autonomy. Baptism on the Savica is thus about the medieval origin of the “unhistorical” status of the modern nation, which aspired to autonomy within the Habsburg Empire. The invention of the catastrophic founding myth, which called for a national resurrection through cultural emancipation, served the needs of the 19th-century Slovenian national movement. Based on cultural nationalism, Baptism became a national epic not only because it corresponded to Schlegel’s concept of the Nationalgedicht or Heldengedicht (i.e., an individualized story against a world-historical background), but also thanks to its sophisticated esthetic features. Baptism uses topoi and forms of ancient, medieval, and post-Renaissance epic poetry and crosses them with the contemporary genre of Byronic ‘metrical tales.’ Moreover, Prešeren mixes epic narrative with elegiac lyricism, through which he identifies with his protagonist. The second part of the poem, a strongly individualized story of love, existential crisis, and renunciation, resembles the bourgeois genres of drama or novel. Baptism is a national epic, albeit constructed with deliberate ambivalence. As such, it entered the literary canon towards the end of the 19th century. Compared to Prešeren’s undisputed status as a ‘national poet,’ Baptism became a point of ideological-esthetic contention. It repeatedly evoked conflicting interpretations, intertextual references, derivations, and reductive uses in public discourse."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					[13.806475, 46.509306],
+					[14.632472, 46.431817],
+					[15.137092, 46.658703],
+					[16.011664, 46.683611],
+					[16.202298, 46.852386],
+					[16.370505, 46.841327],
+					[16.564808, 46.503751],
+					[15.768733, 46.238108],
+					[15.67153, 45.834154],
+					[15.323954, 45.731783],
+					[15.327675, 45.452316],
+					[14.935244, 45.471695],
+					[14.595109, 45.634941],
+					[14.411968, 45.466166],
+					[13.71506, 45.500324],
+					[13.93763, 45.591016],
+					[13.69811, 46.016778],
+					[13.806475, 46.509306]
+				
+
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "ENG",
+			"properties": {
+				"color": "#0000ff",
+				"name": "England",
+				"author": "David Wallace (University of Pennsylvania",
+				"email": "dwallace@english.upenn.edu",
+				"website":"https://www.english.upenn.edu/people/david-wallace",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/england.jpeg",
+				"caption": "University of Pennsylvania, MS Roll 1066 (membrane 7 side 1, c. 1461), successors to King Arthur",
+				"description": "Repeated attempts have been made to write, to define, the national epic of England. Inconclusiveness might be regarded not as failure, but as work in progress. England long developed vibrant local literatures in a language of scant global resonance. Then, through the 19th century, English went global. England withdrew from European ground after 1558, intensifying insular self-definition while expanding its reach through sea-lanes. Rejoining Europe in 1973, England withdrew again in 2016, dragging the rest of the UK with it, in search of imperium lost. Bede offers a foundational account gentis Anglorum, but as ecclesiastical history, and in Latin. Geoffrey of Monmouth's Latin History of the Kings of Britain becomes foundational to chronicling, and brings King Arthur to prominence. But once Camelot dissolves, claimants to hegemony again proliferate, in multiple strands (see above). Beowulf, a poem about Danes first edited by a Dane, was studied compulsorily in the Oxford English tripos throughout the 20th century; the Song of Roland, whose best manuscript is in Anglo-Norman, and resides at Oxford, was not. Following the Reformation, new ancient epics address new English times. Spenser, in Ireland, wrote his Faerie Queen, Milton (having pondered an Arthuriad) his Paradise Lost, and Blake his prophetic books. All proved too idiosyncratic to stick as national epics, and in the 1930s Tolkien (while promoting Beowulf) was still seeing an opening for a national epic: one of his own invention. The real life epic of colonial subjects enlisted to fight for England, in two world wars, remained largely unwritten as warriors were repatriated, to Kingston or Delhi, once war was done. Their descendants are now, finally, writing their own versions of agon in England, on English ground. And through all this, one textual corpus continually evolves its time-honored function as England's national epic."			
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+ 						[-3.630005, 54.615013],
+                        [-3.614701, 54.600937],
+                        [-2.945009, 53.985],
+                        [-3.09208, 53.404441],
+                        [-3.092955, 53.404494],
+                        [-3.093831, 53.404547],
+                        [-3.422719, 51.426848],
+                        [-3.418785, 51.426429],
+                        [-3.416818, 51.426219],
+                        [-3.415834, 51.426114],
+                        [-3.414851, 51.426009],
+                        [-4.30999, 51.210001],
+                        [-5.776567, 50.159678],
+                        [-5.245023, 49.96],
+                        [-4.542508, 50.341837],
+                        [-3.617448, 50.228356],
+                        [-2.956274, 50.69688],
+                        [-2.489998, 50.500019],
+                        [-0.787517, 50.774989],
+                        [0.550334, 50.765739],
+                        [1.449865, 51.289428],
+                        [1.050562, 51.806761],
+                        [1.559988, 52.099998],
+                        [1.681531, 52.73952],
+                        [0.469977, 52.929999],
+                        [0.184981, 53.325014],
+                        [-0.430485, 54.464376],
+                        [-1.114991, 54.624986],
+                        [-1.933505, 55.838314],
+                        [-3.630005, 54.615013]
+
+					]
+				]
+			}
+		},
 		{
 			"type": "Feature",
 			"id": "MLI",
