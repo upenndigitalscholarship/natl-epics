@@ -2066,7 +2066,7 @@
 			"type": "Feature",
 			"id": "DZA",
 			"properties": {
-				"color": "#cab2d6",
+				"color": "#33a02c",
 				"name": "Algeria",
 				"author": "Jill Jarvis (Yale University)",
 				"email": "jill.jarvis@yale.edu",
@@ -3569,9 +3569,9 @@
 			"properties": {
 				"color": "#7fcdbb",
 				"name": "Egypt",
-				"author": "",
-				"email": "",
-				"website":"",
+				"author": "Richard Parkinson (The Queen's College, Oxford)",
+				"email": "richard.parkinson@orinst.ox.ac.uk",
+				"website":"https://www.queens.ox.ac.uk/people/prof-richard-bruce-parkinson",
 				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/egypt.jpg",
 				"caption": "The ‘White Chapel’ of Senwosret I, Sinuhe’s king, in the open air museum at Karnak. © R. B. Parkinson.",
 				"description": "The narrative poem The Life of Sinuhe was composed around 1850 BCE and circulated throughout Egypt as part of court culture. The genre of ‘epic’ was not part of Ancient Egyptian writing, but the anonymous poet used a central genre—the tomb autobiography—to narrate a fictional official’s life spent in the Levant, staging it as a meditation about cultural identity and values. The poem focused on distinctively Egyptian practices as well as genres, but ran counter to much contemporaneous official discourse. It was subsequently used in ancient education, as well as inspiring later authors, and although the extent to which it was the pre-eminent classic remains uncertain, it was read for over 1,500 years. After decipherment, from the 1830s onwards, it came to be regarded as the greatest achievement of Ancient Egyptian literature, partly because its narrative form was accessible to modern readers, but also because its setting was reminiscent of biblical narratives. Its modern reception is a process of Americo-European appropriation, and Sinuhe is arguably perhaps the ancient Egyptian national poem for Egyptologists rather than Egyptians. Outside academia, the poem has often been trivialized and exoticized in ‘western’ culture, notably in the 1954 Hollywood film of Mika Waltari’s historical novel (1945), in sharp contrast to its empathetic retelling by Naguib Mahfouz as a romantic short story (1941). While Sinuhe is now regularly included in canonical selections of World literature, translators and commentators (myself included) are usually not Egyptian, and Ben Okri recently reconfigured the poem in terms of African spirituality (Changing Destinies, 2021). Despite its assimilative receptions, the poem’s appeal to modern international audiences arguably derives from its intensely culturally-specific affirmation of what it meant to be an Egyptian in the nineteenth century BCE."			
@@ -3770,7 +3770,7 @@
 			"id": "CZE",
 			"properties": {
 				"color": "#fdb462",
-				"name": "#fe9929",
+				"name": "Czechia",
 				"author": "Matouš Jaluška (Czech Academy of Sciences)",
 				"email": "jaluska@ucl.cas.cz",
 				"website":"https://ucl.cas.cz/pracovnik/jaluska/",
@@ -4384,7 +4384,7 @@
 			"type": "Feature",
 			"id": "SCO",
 			"properties": {
-				"color": "#3300cc",
+				"color": "#33a02c",
 				"name": "Scotland",
 				"author": "Kate McClune (University of Bristol)",
 				"email": "Kate.McClune@bristol.ac.uk",
@@ -5327,7 +5327,7 @@
 			"type": "Feature",
 			"id": "NOR",
 			"properties": {
-				"color": "#bc80bd",
+				"color": "#33a02c",
 				"name": "Norway",
 				"author": "Narve Fulsås (University of Tromsø)",
 				"email": "narve.fulsas@uit.no",
