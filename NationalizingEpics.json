@@ -4487,7 +4487,7 @@
 			"type": "Feature",
 			"id": "CHN",
 			"properties": {
-				"color": "#fb8072",
+				"color": "#e31a1c",
 				"name": "China",
 				"author": "Jie Li (Harvard University)",
 				"email": "jieli@fas.harvard.edu",
