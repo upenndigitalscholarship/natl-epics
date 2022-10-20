@@ -1,6 +1,684 @@
 {
 	"type": "FeatureCollection",
 	"features": [
+				{
+			"type": "Feature",
+			"id": "IRQ",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Iraq",
+				"author": "Muhsin Jassim Al-Musawi (Colombia University)",
+				"email": "ma2188@columbia.edu",
+				"website":"https://www.mei.columbia.edu/faculty-mei/muhsin-jassim-al-musawi",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/iraq.jpg",
+				"caption": "the 3600-year old 'Gilgamesh Dream Tablet,' taken from Iraq in 1991 and restored in 2021",
+				"description": "The Epic of Gilgamesh is the earliest inscribed epic in the history of mankind. Gilgamesh is mentioned in Sumerian poems, and the epic culminates what was probably a long literary tradition before being put into inscribed tablet form.  A finished text of heroic pursuits and trials, it explores the human search for the unlimited, the vast, and the immortal. It also explores the thin border line between nature and culture, and details first encounters with a bartender, a harlot, Sidori, who tames forces of nature through her adept temptations.  It unfolds in a worldwide  arena where  humans and demigods roam the universe: Ishtar ( Astarte), Gilgamesh, Dumzi, Enkidu, Shamash, Sidori, Utnapishtim, Humbaba, and some others.The challenge of death is the backbone of the epic, with many subplots and  thematic complications. Can Gilgamesh conquer death? The epic has been a driving force all over the world, but especially in Iraq: 'He, who saw it all', a key phrase, recurs in poetry, epics, cultural forms. 1950s modernist poetry takes its lead from the legends of Damuzi and Ishtar and the search for rebirth. The same driving force in nationalism reckons with the possibile rebirth of an Arab nation. The literary scene since the mid-40s abounds with this regenerative motif. James Frazer's Golden Bough, that devotes a chapter to Mesopotamian mythology, and that was translated later by Jabra Ibrahim Jabra, is usually referenced as a source book. Poets devote poems to one character or another. The late Iraqi poet Sa'di Yusuf devotes one to Sidori. Some playwrights and short story writers impose a national theme when speaking of possible hope for Gilgamesh, and the late short story writer Khudayyor Abd al-Amir writes, ‘Is there a Hope for Gilgamesh?’ The epic thus dwells in the mind of writers and poets as long as such questionings and searchings endure. Crash courses are given, and Gilgamesh rarely disappears from any course on Iraq."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+				[45.420618, 35.977546],
+					[46.07634, 35.677383],
+					[46.151788, 35.093259],
+					[45.64846, 34.748138],
+					[45.416691, 33.967798],
+					[46.109362, 33.017287],
+					[47.334661, 32.469155],
+					[47.849204, 31.709176],
+					[47.685286, 30.984853],
+					[48.004698, 30.985137],
+					[48.014568, 30.452457],
+					[48.567971, 29.926778],
+					[47.974519, 29.975819],
+					[47.302622, 30.05907],
+					[46.568713, 29.099025],
+					[44.709499, 29.178891],
+					[41.889981, 31.190009],
+					[40.399994, 31.889992],
+					[39.195468, 32.161009],
+					[38.792341, 33.378686],
+					[41.006159, 34.419372],
+					[41.383965, 35.628317],
+					[41.289707, 36.358815],
+					[41.837064, 36.605854],
+					[42.349591, 37.229873],
+					[42.779126, 37.385264],
+					[43.942259, 37.256228],
+					[44.293452, 37.001514],
+					[44.772699, 37.170445],
+					[45.420618, 35.977546]					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "KHM",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Cambodia",
+				"author": "Roger Nelson (Nanyang Technical University, Singapore) & Ashley Thompson (SOAS, London)",
+				"email": "roger.nelson@ntu.edu.sg & at50@soas.ac.uk",
+				"website":"",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/cambodia.jpeg",
+				"caption": "Koh Ker temple ensemble, National Museum",
+				"description": "The National Museum of Phnom Penh turned the closing of national borders and museum doors during the global pandemic to its advantage. Unhindered by visitors, museum staff re-conceived the display of a monumental 10th-century statuary ensemble of figures from the Mahabharata which had been looted under cover of war and returned piecemeal to Cambodia from prestigious Western art institutions over the previous decade.  In the new museum staging of the original temple staging, the sculptures are no longer made to participate in the story of historical evolution matching artistic styles with sovereign reigns told room-by-room since the museum’s early 20th-century foundation; museum visitors no longer study each piece frontally and individually for its craftsmanship.  Now, seen to be engaging with each other and turning their backs to viewers, they bring the Mahabharata to life. The Mahabharata and the Ramayana were well known in ancient Cambodia, with scenes from both Sanskrit epics abundantly referenced in sculpture and epigraphic literature always appearing to endow the historically conditioned locality with a vision of itself as transcending time and space. By the 16th-17th centuries, a Khmer-language verse version of the Ramayana staged the hero Rama as a Buddha-to-be. Another of the earliest literary compositions in Khmer narrates the Ramayana reliefs sculpted on the walls of the epic 12th-century temple of Angkor Wat.  In the early 20th century the Ramayana was painted on the enclosure walls of Phnom Penh’s Royal Palace Temple of the Emerald Buddha. The Ramayana continues to be staged in contemporary art and dance dramas —many conceived with activist ambitions.  In image and word, theatre and ritual, the Khmer Ramayana has variously underpinned the identity of monarch, court and state. It also bore the seed of critique of power.  The Mahabharata, on the other hand, seems to have been all but forgotten after Angkor. Until now, perhaps."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[103.49728, 10.632555],
+						[103.09069, 11.153661],
+						[102.584932, 12.186595],
+						[102.348099, 13.394247],
+						[102.988422, 14.225721],
+						[104.281418, 14.416743],
+						[105.218777, 14.273212],
+						[106.043946, 13.881091],
+						[106.496373, 14.570584],
+						[107.382727, 14.202441],
+						[107.614548, 13.535531],
+						[107.491403, 12.337206],
+						[105.810524, 11.567615],
+						[106.24967, 10.961812],
+						[105.199915, 10.88931],
+						[104.334335, 10.486544],
+						[103.49728, 10.632555]
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "HTI",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Haiti",
+				"author": "Charles Forsdick (Liverpool)",
+				"email": "craf@liv.ac.uk",
+				"website":"https://www.liverpool.ac.uk/languages-cultures-and-film/staff/charles-forsdick/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/haiti.jpeg",
+				"caption": "‘Desalines - Huyes del valor francés, pero matando blancos’, in Dubroca, Vida de J. J. Dessalines, gefe de los negros de Santo Domingo (1806)",
+				"description": "The nation-building narratives of Haiti draw heavily on accounts of the country’s revolution against enslavement and its war for independence (1791-1804). While subsequent events, such as resistance to the U.S. occupation of 1915-34, have been adopted for these purposes, they lack the power and reach of stories associated with the revolutionary leaders, Toussaint Louverture, Jean-Jacques Dessalines and Henry Christophe. Among these, it is perhaps Louverture who has achieved the greatest prominence, although his visibility is more significant outside Haiti than within. In Haiti itself, Louverture is the precursor, but Dessalines himself the liberator central to the construction of a national epic. Dessalines joined the vodou pantheon as a lwa, the national anthem – ‘La Dessalinienne’ – was written in his honour, and Dessalinians still act as the adversaries of Louverturians in Haitian political life. This contribution considers the role of these founding figures in Haiti’s national epic, but focuses in particular on the role of Dessalines. It analyses the ambiguities associated with Haiti’s founding leader, but contrasts external perceptions of Dessalines (often derogatory and highly racialized in literary refigurings from early 1800s onwards) with his representation in Haiti itself. To this end, I will draw on material from mid-nineteenth-century Haitian historiography to L’Haitiade by Gragnon-Lacoste, and also consider how Dessalines has been systematically instrumentalized in political and commemorative contexts (including contemporary Haiti).  An indication of this enduring mythologisation within the national narrative is the recent creation of Amwari by Karl Heins Desroches, a Dessalinian comic-book hero who acts as saviour of the country as it faces multiple current crises. Finally, the study considers alternative literary accounts – recognizing more fully the role of the people, or countering the more gendered aspects of the dominant narratives – that have existed for a number of years but are attracting increasing attention in the 21st century."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-73.189791, 19.915684],
+						[-72.579673, 19.871501],
+						[-71.712361, 19.714456],
+						[-71.624873, 19.169838],
+						[-71.701303, 18.785417],
+						[-71.945112, 18.6169],
+						[-71.687738, 18.31666],
+						[-71.708305, 18.044997],
+						[-72.372476, 18.214961],
+						[-72.844411, 18.145611],
+						[-73.454555, 18.217906],
+						[-73.922433, 18.030993],
+						[-74.458034, 18.34255],
+						[-74.369925, 18.664908],
+						[-73.449542, 18.526053],
+						[-72.694937, 18.445799],
+						[-72.334882, 18.668422],
+						[-72.79165, 19.101625],
+						[-72.784105, 19.483591],
+						[-73.415022, 19.639551],
+						[-73.189791, 19.915684]
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "COD",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Democratic Republic of Congo",
+				"author": "Nancy Rose Hunt (University of Florida)",
+				"email": "nrhunt@ufl.edu",
+				"website":"https://history.ufl.edu/directory/nancy-rose-hunt/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/congo.png",
+				"caption": "Ballet Lianja Epic, DR Congo, Patrimonie PanAfrica Heritage Centre",
+				"description": "My contribution will investigate various publications, uses, and performances of the Lianja epic, a regional epic of Congo’s Lomongo speakers. It was only partially ever a national epic within the huge ex-Belgian colony that became postcolonial Congo (today DR Congo). It was probably long-established in the region, dating perhaps to the 18th century or earlier. Flemish colonial missionaries were keen to represent it as a “national’ epic for their imagined ‘nation’ of diverse Lomongo peoples, among whom they worked. They published several scholarly, usually bi-lingual, versions, from the 1920s to the 1970s. From the 1960s, Lianja became the basis of some of the first national theatrical performances, traveling internationally and beyond the capital. As new digital media such as FaceBook came into play in the 1990s, Lianja received new attention, reach, and meanings. There are also children’s book versions. The colonial missionary texts were in Dutch-Lomongo or French-Lomongo, and these scholarly versions assembled and edited by Flemish priests were partially Catholic in interpretation. Some FaceBook versions suggest more risqué meanings and elaborations. This epic from central Africa knew diverse audiences with national conceits and theatrical media. It is important, therefore, to be careful with the word ‘national.’ We should investigate how a regional epic, of which there were several in Congo, may take on new meanings and purposes when played out on a national scale in times of decolonization, when theatrical stories met new needs and scales for performing authenticity and pride. The implications of new media are also important, especially those that became readily available to most anybody within Congo’s wide diaspora since the late 1980s. Throughout this long and complex history, and across many terrains of 'Congo', new actors and audiences have remade the purposes, meanings, and uses of this ancient set of stories about wealth, reproduction, fame, crisis, and resolution."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[30.83386, 3.509166],
+						[30.773347, 2.339883],
+						[31.174149, 2.204465],
+						[30.85267, 1.849396],
+						[30.468508, 1.583805],
+						[30.086154, 1.062313],
+						[29.875779, 0.59738],
+						[29.819503, -0.20531],
+						[29.587838, -0.587406],
+						[29.579466, -1.341313],
+						[29.291887, -1.620056],
+						[29.254835, -2.21511],
+						[29.117479, -2.292211],
+						[29.024926, -2.839258],
+						[29.276384, -3.293907],
+						[29.339998, -4.499983],
+						[29.519987, -5.419979],
+						[29.419993, -5.939999],
+						[29.620032, -6.520015],
+						[30.199997, -7.079981],
+						[30.740015, -8.340007],
+						[30.346086, -8.238257],
+						[29.002912, -8.407032],
+						[28.734867, -8.526559],
+						[28.449871, -9.164918],
+						[28.673682, -9.605925],
+						[28.49607, -10.789884],
+						[28.372253, -11.793647],
+						[28.642417, -11.971569],
+						[29.341548, -12.360744],
+						[29.616001, -12.178895],
+						[29.699614, -13.257227],
+						[28.934286, -13.248958],
+						[28.523562, -12.698604],
+						[28.155109, -12.272481],
+						[27.388799, -12.132747],
+						[27.16442, -11.608748],
+						[26.553088, -11.92444],
+						[25.75231, -11.784965],
+						[25.418118, -11.330936],
+						[24.78317, -11.238694],
+						[24.314516, -11.262826],
+						[24.257155, -10.951993],
+						[23.912215, -10.926826],
+						[23.456791, -10.867863],
+						[22.837345, -11.017622],
+						[22.402798, -10.993075],
+						[22.155268, -11.084801],
+						[22.208753, -9.894796],
+						[21.875182, -9.523708],
+						[21.801801, -8.908707],
+						[21.949131, -8.305901],
+						[21.746456, -7.920085],
+						[21.728111, -7.290872],
+						[20.514748, -7.299606],
+						[20.601823, -6.939318],
+						[20.091622, -6.94309],
+						[20.037723, -7.116361],
+						[19.417502, -7.155429],
+						[19.166613, -7.738184],
+						[19.016752, -7.988246],
+						[18.464176, -7.847014],
+						[18.134222, -7.987678],
+						[17.47297, -8.068551],
+						[17.089996, -7.545689],
+						[16.860191, -7.222298],
+						[16.57318, -6.622645],
+						[16.326528, -5.87747],
+						[13.375597, -5.864241],
+						[13.024869, -5.984389],
+						[12.735171, -5.965682],
+						[12.322432, -6.100092],
+						[12.182337, -5.789931],
+						[12.436688, -5.684304],
+						[12.468004, -5.248362],
+						[12.631612, -4.991271],
+						[12.995517, -4.781103],
+						[13.25824, -4.882957],
+						[13.600235, -4.500138],
+						[14.144956, -4.510009],
+						[14.209035, -4.793092],
+						[14.582604, -4.970239],
+						[15.170992, -4.343507],
+						[15.75354, -3.855165],
+						[16.00629, -3.535133],
+						[15.972803, -2.712392],
+						[16.407092, -1.740927],
+						[16.865307, -1.225816],
+						[17.523716, -0.74383],
+						[17.638645, -0.424832],
+						[17.663553, -0.058084],
+						[17.82654, 0.288923],
+						[17.774192, 0.855659],
+						[17.898835, 1.741832],
+						[18.094276, 2.365722],
+						[18.393792, 2.900443],
+						[18.453065, 3.504386],
+						[18.542982, 4.201785],
+						[18.932312, 4.709506],
+						[19.467784, 5.031528],
+						[20.290679, 4.691678],
+						[20.927591, 4.322786],
+						[21.659123, 4.224342],
+						[22.405124, 4.02916],
+						[22.704124, 4.633051],
+						[22.84148, 4.710126],
+						[23.297214, 4.609693],
+						[24.410531, 5.108784],
+						[24.805029, 4.897247],
+						[25.128833, 4.927245],
+						[25.278798, 5.170408],
+						[25.650455, 5.256088],
+						[26.402761, 5.150875],
+						[27.044065, 5.127853],
+						[27.374226, 5.233944],
+						[27.979977, 4.408413],
+						[28.428994, 4.287155],
+						[28.696678, 4.455077],
+						[29.159078, 4.389267],
+						[29.715995, 4.600805],
+						[29.9535, 4.173699],
+						[30.83386, 3.509166]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "PSE",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Palestine",
+				"author": "Ahmad Almallah (University of Pennsylvania)",
+				"email": "almallah@sas.upenn.edu",
+				"website":"https://creative.writing.upenn.edu/people/ahmad-almallah",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/palestine.jpg",
+				"caption": "Handhalah on wall in Bilin (Palobserver, Wiki Commons, 2011); Kanafani on wall at Bethlehem (AA)",
+				"description": "Palestine is not a myth, and does not adopt a myth other than itself. The poet Mahmoud Darwish made a metaphor of it, connecting it to the loss of Eden, or of Andalusia, while also proposing the simple formula for the name's resonance, political and poetical: ‘Its name was Palestine/Its name has become Palestine.’ Palestine thus connects to the mythical world as a place of loss, but also as a future space, to be gained. It is a point in time, extending back to its past, under siege and occupation in the present, and a homeland, as in the Arabic watan, to be liberated in the future. Here comes the real creator of this formula, the journalist and novelist Ghassan Kanafani. His writings urge Palestinians not to wallow in mythic nostalgia, but rather to use memory of the place as a point of rooting the right of return. To him, action defeats nostalgia. For Palestinian refugees, Kanafani remains the essential Palestinian, joined in that unwavering position by cartoonist Naji al-Ali. His drawing of Handhalah, the child who will not grow up until he returns to Palestine, became as close as it gets to the mythical in its use. Handhalah in the drawing of al-Ali stands with his back to us somewhere on the canvas of represented events only to witness injustice. Handhalah, the child witness, keeps being recreated on walls in Palestine, and wherever Palestinians reside, especially in refugee camps around the world. Both Kanafani and Ali stand firm against mythologizing Palestine as ‘a lost Eden.’ Palestine through these artists comes to represent a struggle for justice, a national-native cause, claiming a right to a native-land. Thus, I argue that Palestine stands in opposition to a national epic; its natives have been uprooted from the real, and their absurd existence now is the only thing resembling myth."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[35.545665, 32.393992],
+						[35.545252, 31.782505],
+						[35.397561, 31.489086],
+						[34.927408, 31.353435],
+						[34.970507, 31.616778],
+						[35.225892, 31.754341],
+						[34.974641, 31.866582],
+						[35.18393, 32.532511],
+						[35.545665, 32.393992]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "AMB",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Ambazonia",
+				"author": "Patrice Nganang (Stony Brook University)",
+				"email": "patrice.nganang@stonybrook.edu",
+				"website":"https://nganang.com/writing-for-change/",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/ambazonia.png",
+				"caption": "Mancho Bibixy, now jailed, addressing his Anglophone community in November 2016.",
+				"description": "The Gulf of Guinea is oil rich, but riddled with conflicts. As an entry point to the triangular slave trade, it features in the Narrative of Olaudah Equiano, and then in multiple colonial treatises and fictions that informed colonialism. Since the 1960s which brought the independence of most African nations, it has been torn between two grand ideas: independence, and with it the magnificence of nation-building, or secession. Central to both options is the question of minorities, and their relation to the nation. In the Gulf of Guinea, ‘Ambazonia’ is the newest formulation of the idea of secession, following the ‘Biafra’ idea (and its attendant literature). ‘Ambazonia,’ designating the English-speaking minority of Cameroon, figures metaphorically how minorities are regarded (or not), in postcolonial African nations as they set in motion the process of birthing a new nation. The term was coined in Revolution in Ambazonia (1984), a pamphlet written in prison by Fongum Gorji-Dinka (then head of the Cameroon Bar Association), a text central to Cameroonian Anglophone nationalism. Intellectual, legal, and then political debate has been transformed into a militarily contested battlefield, involving genocide. My chapter will trace the birth of an English-speaking literature in Cameroon, not as a pendant to French-speaking Cameroonian literature, but as articulating a specific idea of being Anglophone, and of minoritarian status in Africa. It will consider the literary formulation of a way of life that, starting in 2017, transformed into war, while also producing one of the most important literary figures of the younger generation – Imbolo Mbue."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+[
+						9.325838047884616,
+						4.0045880302025125
+					],
+					[
+						9.547112824982804,
+						4.108701409619357
+					],
+					[
+						9.526237846011554,
+						4.196146161484094
+					],
+					[
+						9.413512959564855,
+						4.212801200868427
+					],
+					[
+						9.509537862834577,
+						4.408470825879462
+					],
+					[
+						9.488662883863299,
+						4.491719006662393
+					],
+					[
+						9.58468778713197,
+						4.6415416728471826
+					],
+					[
+						9.638962732458225,
+						4.6415416728471826
+					],
+					[
+						9.659837711429503,
+						4.708119377451453
+					],
+					[
+						9.709937660961458,
+						4.762209075515898
+					],
+					[
+						9.72246264834422,
+						4.837095471208613
+					],
+					[
+						9.810137560024401,
+						4.916133234813742
+					],
+					[
+						9.772562597876203,
+						4.974365595083725
+					],
+					[
+						9.814312555818645,
+						5.036751692255081
+					],
+					[
+						9.864412505350629,
+						5.065863160081221
+					],
+					[
+						9.760037610493384,
+						5.228031413795264
+					],
+					[
+						9.764212606287629,
+						5.286235484312783
+					],
+					[
+						9.864412505350629,
+						5.344434084647531
+					],
+					[
+						9.914512454882612,
+						5.373531314892489
+					],
+					[
+						9.94373742544235,
+						5.460814636687687
+					],
+					[
+						9.952087417031834,
+						5.514840812824815
+					],
+					[
+						10.006362362357123,
+						5.589638158114198
+					],
+					[
+						10.10238726562676,
+						5.66442594828419
+					],
+					[
+						10.110737257215249,
+						5.705970545395772
+					],
+					[
+						10.089862278243999,
+						5.74751213282191
+					],
+					[
+						9.9771373917973,
+						5.76828179114743
+					],
+					[
+						9.918687450676885,
+						5.739204057149209
+					],
+					[
+						9.75586261469914,
+						5.79735803451338
+					],
+					[
+						9.730812639932651,
+						5.838892924550919
+					],
+					[
+						9.605562766103247,
+						5.9053423356536
+					],
+					[
+						9.613830729101267,
+						6.054772609101619
+					],
+					[
+						9.725010250609131,
+						6.119261675411309
+					],
+					[
+						9.76207009111107,
+						6.211375395534745
+					],
+					[
+						9.744381682100482,
+						6.30671261719155
+					],
+					[
+						9.760201931396523,
+						6.364365925668963
+					],
+					[
+						9.73383484923653,
+						6.401051029686883
+					],
+					[
+						9.744381682100482,
+						6.484892777750275
+					],
+					[
+						9.69692093421142,
+						6.516329848028619
+					],
+					[
+						9.667974806904539,
+						6.511536638075199
+					],
+					[
+						9.655913920526046,
+						6.530709202938198
+					],
+					[
+						9.629379970493318,
+						6.521123012176915
+					],
+					[
+						9.60043384318385,
+						6.528312672450511
+					],
+					[
+						9.583548602253899,
+						6.5067433823543865
+					],
+					[
+						9.585960779529614,
+						6.473189313559146
+					],
+					[
+						9.537717234015588,
+						6.444426908077773
+					],
+					[
+						9.516007638533154,
+						6.442029967234603
+					],
+					[
+						9.465351915743497,
+						6.451617662632799
+					],
+					[
+						9.431581433882513,
+						6.312578456968197
+					],
+					[
+						9.344743051956186,
+						6.350937863322983
+					],
+					[
+						9.279614265511128,
+						6.187890852376867
+					],
+					[
+						9.20001241541189,
+						6.161510837846222
+					],
+					[
+						9.146944515345382,
+						6.0895586951268825
+					],
+					[
+						8.939086410509788,
+						5.911580958896394
+					],
+					[
+						8.914739892140517,
+						5.904661760206537
+					],
+					[
+						8.90430566998262,
+						5.863144756766985
+					],
+					[
+						8.852134559192194,
+						5.821624663819591
+					],
+					[
+						8.88343722566674,
+						5.790482579598873
+					],
+					[
+						8.838222262981617,
+						5.693585158536223
+					],
+					[
+						8.907783744035271,
+						5.610517209920971
+					],
+					[
+						8.924269583265499,
+						5.570779308289943
+					],
+					[
+						8.841000086703843,
+						5.4464519242355465
+					],
+					[
+						8.807956087558637,
+						5.145032454750023
+					],
+					[
+						8.690979104269843,
+						5.003055992825622
+					],
+					[
+						8.612926184492494,
+						4.880857399026638
+					],
+					[
+						8.629651810158833,
+						4.830860618173389
+					],
+					[
+						8.585050141715357,
+						4.8030830330478125
+					],
+					[
+						8.540448473270601,
+						4.8030830330478125
+					],
+					[
+						8.52372284760429,
+						4.74752447442026
+					],
+					[
+						8.52929805615966,
+						4.691961441191381
+					],
+					[
+						8.501422013382495,
+						4.597494162397737
+					],
+					[
+						8.512572430493378,
+						4.503014357104945
+					],
+					[
+						8.651952644380543,
+						4.480782021862282
+					],
+					[
+						8.735580772713405,
+						4.514130270168039
+					],
+					[
+						8.668678270048161,
+						4.586379536416686
+					],
+					[
+						8.646377435825116,
+						4.686404893763424
+					],
+					[
+						8.702129521380755,
+						4.614165776157009
+					],
+					[
+						8.74673118982551,
+						4.553034622365132
+					],
+					[
+						8.791332858268987,
+						4.536361585100096
+					],
+					[
+						8.852660152380025,
+						4.536361585100096
+					],
+					[
+						8.902837029378986,
+						4.497456336855848
+					],
+					[
+						8.886111403712647,
+						4.386287095117993
+					],
+					[
+						8.925137863601975,
+						4.275101305774399
+					],
+					[
+						8.992422192771272,
+						4.204842365201301
+					],
+					[
+						8.981480232395171,
+						4.077140836260966
+					],
+					[
+						9.126587482650962,
+						4.00902501720104
+					],
+					[
+						9.211944688684639,
+						4.00902501720104
+					],
+					[
+						9.24608757109732,
+						3.9409035222353737
+					],
+					[
+						9.325838047884616,
+						4.0045880302025125
+					]
+					]
+				]
+			}
+		},
+
+
 		{
 			"type": "Feature",
 			"id": "NIC",
@@ -4642,7 +5320,7 @@
 			"type": "Feature",
 			"id": "EST",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#fccde5",
 				"name": "Estonia",
 				"author": "Cornelius Hasselblatt (Estonian Academy of Sciences)",
 				"email": "cornelius@hasselblatt.com",
@@ -4809,7 +5487,7 @@
 			"type": "Feature",
 			"id": "DZA",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#757496",
 				"name": "Algeria",
 				"author": "Jill Jarvis (Yale University)",
 				"email": "jill.jarvis@yale.edu",
@@ -7127,7 +7805,7 @@
 			"type": "Feature",
 			"id": "SCO",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#fb9a99",
 				"name": "Scotland",
 				"author": "Kate McClune (University of Bristol)",
 				"email": "Kate.McClune@bristol.ac.uk",
@@ -8031,7 +8709,7 @@
 			"type": "Feature",
 			"id": "NOR",
 			"properties": {
-				"color": "#4daf4a",
+				"color": "#e78ac3",
 				"name": "Norway",
 				"author": "Narve Fulsås (University of Tromsø)",
 				"email": "narve.fulsas@uit.no",
