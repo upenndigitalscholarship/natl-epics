@@ -5320,7 +5320,7 @@
 			"type": "Feature",
 			"id": "EST",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#fccde5",
 				"name": "Estonia",
 				"author": "Cornelius Hasselblatt (Estonian Academy of Sciences)",
 				"email": "cornelius@hasselblatt.com",
@@ -5487,7 +5487,7 @@
 			"type": "Feature",
 			"id": "DZA",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#757496",
 				"name": "Algeria",
 				"author": "Jill Jarvis (Yale University)",
 				"email": "jill.jarvis@yale.edu",
@@ -7805,7 +7805,7 @@
 			"type": "Feature",
 			"id": "SCO",
 			"properties": {
-				"color": "#33a02c",
+				"color": "#fb9a99",
 				"name": "Scotland",
 				"author": "Kate McClune (University of Bristol)",
 				"email": "Kate.McClune@bristol.ac.uk",
@@ -8709,7 +8709,7 @@
 			"type": "Feature",
 			"id": "NOR",
 			"properties": {
-				"color": "#4daf4a",
+				"color": "#e78ac3",
 				"name": "Norway",
 				"author": "Narve Fulsås (University of Tromsø)",
 				"email": "narve.fulsas@uit.no",
