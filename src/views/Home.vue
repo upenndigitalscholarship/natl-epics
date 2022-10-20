@@ -190,7 +190,7 @@ export default {
 .mapboxgl-popup{
     transform:none !important;
     max-width:40vw !important;
-    opacity: 0.8 !important;
+    opacity: 0.9 !important;
      top: 0px;
     left: 60vw;
     right:0px;
@@ -227,7 +227,7 @@ h1{
   width:25px;
   position:absolute;
   background-color:white;
-  opacity:0.8;
+  opacity:0.9;
   overflow-y:clip;
   padding:10px;
 }
