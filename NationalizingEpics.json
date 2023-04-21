@@ -3,6 +3,120 @@
 	"features": [
 				{
 			"type": "Feature",
+			"id": "CMR",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Cameroon",
+				"author": "Martine Tchitchihe (University of Pennsylvania)",
+				"email": "tmartine@sas.upenn.edu",
+				"website":"https://complit.sas.upenn.edu/people/martine-tchitchihe",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/cameroon.jpg",
+				"caption": "",
+				"description": "Cameroon is a culturally diverse country located in central Africa, with over 250 ethnic groups and more than 200 languages spoken. Pre-colonial Cameroon thus comprised a complex system of kingdoms and societies.  Following colonization by German, French, and British powers, the country gained independence in 1960; it continues to struggle with political instability and economic challenges. The rich cultural heritage of Cameroon finds expression through many media, including music, dance, and traditional crafts; established institutions now seek to preserve and promote such heritage while encouraging contemporary arts and cultural expressions in more contemporary idioms. This chapter will trace the development of Cameroonian nationalism, focusing on the contributions of Cameroonian writers and cultural institutions and emphasizing the impact of schooling. Of especially compelling interest in this story is the life and legacy of Ibrahim Njoya (1875-1933), who ruled as monarch in Bamu, a territory in western Cameroon. Nyoja’s dynasty traced its roots back many centuries, and Nyoja made a series of attempts to develop a writing system, influenced by Arabic and featuring pictographic script. A long history of the Bamu kingdom was commissioned, and Nyoja went on to develop a new language for his court, Shümom, which became the official language of record; schools were established to teach it. Such innovations flourished under German colonial patronage, but did not survive the transition to French colonial rule. Njoya was exiled from his own kingdom to the Cameroonian capital Yaoundé in 1931, and died two years later. As suggested by Patrice Ngangang’s novel Mount Pleasant (2011), Njoya is a complex and contradictory figure who, while operating working within strict parameters of colonial control, nonetheless enlarged the horizons of Cameroonian aspirational identity."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[13.075822, 2.267097],
+					[12.951334, 2.321616],
+					[12.35938, 2.192812],
+					[11.751665, 2.326758],
+					[11.276449, 2.261051],
+					[9.649158, 2.283866],
+					[9.795196, 3.073404],
+					[9.404367, 3.734527],
+					[8.948116, 3.904129],
+					[8.744924, 4.352215],
+					[8.488816, 4.495617],
+					[8.500288, 4.771983],
+					[8.757533, 5.479666],
+					[9.233163, 6.444491],
+					[9.522706, 6.453482],
+					[10.118277, 7.03877],
+					[10.497375, 7.055358],
+					[11.058788, 6.644427],
+					[11.745774, 6.981383],
+					[11.839309, 7.397042],
+					[12.063946, 7.799808],
+					[12.218872, 8.305824],
+					[12.753672, 8.717763],
+					[12.955468, 9.417772],
+					[13.1676, 9.640626],
+					[13.308676, 10.160362],
+					[13.57295, 10.798566],
+					[14.415379, 11.572369],
+					[14.468192, 11.904752],
+					[14.577178, 12.085361],
+					[14.181336, 12.483657],
+					[14.213531, 12.802035],
+					[14.495787, 12.859396],
+					[14.893386, 12.219048],
+					[14.960152, 11.555574],
+					[14.923565, 10.891325],
+					[15.467873, 9.982337],
+					[14.909354, 9.992129],
+					[14.627201, 9.920919],
+					[14.171466, 10.021378],
+					[13.954218, 9.549495],
+					[14.544467, 8.965861],
+					[14.979996, 8.796104],
+					[15.120866, 8.38215],
+					[15.436092, 7.692812],
+					[15.27946, 7.421925],
+					[14.776545, 6.408498],
+					[14.53656, 6.226959],
+					[14.459407, 5.451761],
+					[14.558936, 5.030598],
+					[14.478372, 4.732605],
+					[14.950953, 4.210389],
+					[15.03622, 3.851367],
+					[15.405396, 3.335301],
+					[15.862732, 3.013537],
+					[15.907381, 2.557389],
+					[16.012852, 2.26764],
+					[15.940919, 1.727673],
+					[15.146342, 1.964015],
+					[14.337813, 2.227875],
+					[13.075822, 2.267097]
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
+			"id": "JAM",
+			"properties": {
+				"color": "#4daf4a",
+				"name": "Jamaica",
+				"author": "Nadi Edwards (Norval Edwards, PhD, The University of the West Indies, Mona Campus)",
+				"email": "norval.edwards@uwimona.edu.jm",
+				"website":"",
+				"image": "https://raw.githubusercontent.com/chradil/natl-epics/main/images/",
+				"caption": "",
+				"description": "This chapter examines how certain shibboleths pertaining to postcolonial representations of nation, history, and collective identity are confounded in selected Jamaican fiction and popular musical discourses. Using Victor Stafford Reid’s New Day (1949) as a point of departure, I argue that this novel, published five years after the granting of Universal Adult Suffrage, is strikingly emblematic of the anticolonial turn and the retrieval of a history of rebellion that is used to legitimized the nationalist politics of the 1940s and 1950s. New Day’s epic template is echoed to some extent in John Hearne’s Voices Under the Window (1955), and Neville Dawes’ The Last Enchantment (1960) and Interim (1978), but it is cunningly revised by Margaret Cezair Thompson’s The True History of Paradise (1999), a novel which revisits the premises of New Day to replace the paternal genealogies and narrative authority of Reid’s oracular narrator, John Campbell, with an interwoven and intricate web of imbricated histories, narrators, and temporalities that confound the nationalist epic ambitions of the earlier text. Cezair Thompson ‘s text-- with its spectral, haunting complication of nation, history, identity, place, and belonging-- engenders an ontological disruption of the postcolonial epic project. In foregrounding the affective elements of desire, familial relationships, and the psychological complexities of human and social relationships, Cezair Thompson effectively establishes a template for confounding the attempt to write a cohesive epic narrative of Jamaican history, a template which is reiterated in Erna Brodber’s Nothing’s Mat (2014) and Curdella Forbes A Tall History of Sugar (2019), two novels which foreground a filial poetics and politics of affect in articulating Jamaican public and private histories from the post-emancipation period to the present. The woman-centric epic revisioning of New Day in the fictions of Cezair Thompson, Brodber, and Forbes ultimately share elective affinities with the dread histories evoked in reggae songs and the anti-epic dystopian narratives in Marlon James’ A Brief History of Seven Killings (2014)."
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[-77.569601, 18.490525],
+						[-76.896619, 18.400867],
+						[-76.365359, 18.160701],
+						[-76.199659, 17.886867],
+						[-76.902561, 17.868238],
+						[-77.206341, 17.701116],
+						[-77.766023, 17.861597],
+						[-78.337719, 18.225968],
+						[-78.217727, 18.454533],
+						[-77.797365, 18.524218],
+						[-77.569601, 18.490525]
+					]
+				]
+			}
+		},
+				{
+			"type": "Feature",
 			"id": "IRQ",
 			"properties": {
 				"color": "#4daf4a",
