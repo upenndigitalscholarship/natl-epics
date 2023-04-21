@@ -10,6 +10,20 @@
 	</p>
 </div>
 </template>
+<script>
+
+import $ from 'jquery';
+
+export default {
+    components: {
+    }
+    }
+
+$.getJSON("https://raw.githubusercontent.com/chradil/natl-epics/main/NationalizingEpics.json", function(data){
+	console.log(data.features[0].id);
+});
+
+</script>
 <style>
 blockquote{
 	margin-left:8em;
