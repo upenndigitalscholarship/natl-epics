@@ -1,40 +1,30 @@
 <template>
+<div>
 <h1>Posts</h1>
 
-<h2> {{posts}}</h2>
-<li v-for="post in posts" :key="post">
-	<h2>post.title</h2>
-	<img src={{ post.image }}>
-	<p>{{ post.body }}
-	</p>
-</li>
+<h2>{{posts[0].title}}</h2>
+<img :src="posts[0].image">
+<p v-html="posts[0].body"></p>
 
+</div>
 </template>
+
 <script>
 
-import $ from 'jquery';
 import axios from 'axios'
 
 export default {
     data: function() {
     return {
-      posts: null
+      posts: {}
     };
   },
-    methods: {
-    getData: function () {
-      $.getJSON("https://raw.githubusercontent.com/chradil/natl-epics/main/posts.json", function (data) {
-        this.posts = data
-        console.log(this.posts)
-      })
-
-    }
-  },
-  mounted () {
+  created () {
 
     axios
       .get("https://raw.githubusercontent.com/chradil/natl-epics/main/posts.json")
       .then(response => (this.posts = response.data))
+      .catch(err => console.error(err));
   
     }
 }
