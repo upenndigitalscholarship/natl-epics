@@ -2,9 +2,13 @@
 <div>
 <h1>Posts</h1>
 
-<h2>{{posts[0].title}}</h2>
-<img :src="posts[0].image">
-<p v-html="posts[0].body"></p>
+<div v-for="post in posts" :key="post.id">
+	<h2> {{post.title}}</h2>
+	<h3> {{post.date}}</h3>
+	<img :src="post.image">
+	<p v-html="post.body"></p>
+	<hr>
+</div>
 
 </div>
 </template>
@@ -23,7 +27,7 @@ export default {
 
     axios
       .get("https://raw.githubusercontent.com/chradil/natl-epics/main/posts.json")
-      .then(response => (this.posts = response.data))
+      .then(response => (this.posts = response.data.posts))
       .catch(err => console.error(err));
   
     }
