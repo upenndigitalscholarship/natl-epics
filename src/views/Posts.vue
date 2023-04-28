@@ -26,7 +26,7 @@ export default {
   created () {
 
     axios
-      .get("https://raw.githubusercontent.com/chradil/natl-epics/main/posts.json")
+      .get("https://raw.githubusercontent.com/upenndigitalscholarship/natl-epics/main/posts.json")
       .then(response => (this.posts = response.data.posts))
       .catch(err => console.error(err));
   
