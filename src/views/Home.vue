@@ -181,6 +181,11 @@ export default {
             ],
             'text-offset': [0, 1.25],
             'text-anchor': 'top'
+        },
+        'paint':{
+            "text-color": "#696969",
+                "text-halo-color": "#fff",
+                "text-halo-width": 1
         }
 
         });
