@@ -1,15 +1,31 @@
 <template>
-<h1>Teaching with National Epics</h1>
-<p>I first taught courses on national epics at both graduate and undergraduate levels in Fall 2019. The graduate course ran as Lineages of Literary Nationalism, and the undergraduate offering as The National Epic. The latter, taught as a Ben Franklin seminar, the highest level of instruction for Penn undergraduates, required a formal process of curricular approval as a new course. Repeated in modified form as National Epics in Spring 2021, it will be offered again in Spring 2022 (in association with the theme year of the Wolf Humanities Center at Penn in 2021-2, Migration).</p>
-<p> There are five assignments, given here with instructions:</p>
-<li><ul><b>Assignment 1:</b> pass/ pass: a short meditation, of about 500 words or 2 pages, on the theme of personhood and nationhood. You may draw upon your own experiences here, or offer a response to texts and issues covered in class. This will serve a tune up writing exercise and will be especially useful if English is not your first language. We will provide feedback. It will also allow us to get a more detailed and nuanced account of your interests, of what you might hope for in this class.</ul>
-<ul><b>Assignment 2:</b> short essay, chosen from a list of topics to be provided (and covered in class): 4 pages.</ul>
-<ul><b>Assignment 3:</b> long essay brainstorm. Again, this need not be long: the chief point is to let us know how your thinking is developing, so that (again) we can suggest further reading, focus on critical issues, etc. Some class discussion of topics and issues arising might prove useful.</ul>
-<ul><b>Assignment 4:</b> class presentation, with Powerpoint. Aim to make your presentation about 12-15 minutes long, so that there can be ample opportunity for discussion; 20 minutes total per presentation.</ul>
-<ul><b>Assignment 5:</b> longer essay, 8-10 pages. Long, but not ridiculously long: compactness and concision are to be valued above omnium gatherum bagginess.</ul>
-</li>
-<p><b>Course design:</b> the first weeks of the course are set in advance, but later weeks are determined in part by student input: texts for Vietnam, Korea, and the Philippines all follow student suggestions. Germany, Switzerland, and Italy all featured in the first iteration of the course, but not in the second. The general movement of the course, at present, is to begin with western European texts (familiar from traditional curricula) but then to pivot eastward, across Eurasian space (most recently via Russia, Mongolia, and India), all the way to east Asia. The great advantage here is that, for the first time, we are able to consider connected Eurasian space (rather than camping in the far western enclave). Course enrollment is majority-minority, with almost all students finding some level of personal cultural investment. Students are of course free to pursue their own interests in their class presentations and final projects, adding to the range of territorial coverage. Experts from various Penn Departments, across Arts and Sciences, are invited to give guest lectures.</p>
+<div v-for="section in sections" :key="section.id">
+<h1>{{section.title}}</h1>
+<div v-html="section.body"> </div>
+</div>
+
 <br><br>
 
 
 </template>
+
+<script>
+
+import axios from 'axios'
+
+export default {
+    data: function() {
+    return {
+      sections: {}
+    };
+  },
+  created () {
+
+    axios
+      .get("https://raw.githubusercontent.com/upenndigitalscholarship/natl-epics/main/teaching.json")
+      .then(response => (this.sections = response.data.sections))
+      .catch(err => console.error(err));
+  
+    }
+}
+</script>

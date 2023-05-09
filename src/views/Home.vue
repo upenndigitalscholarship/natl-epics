@@ -2,12 +2,14 @@
   <div id="map" />
   <div id="info">
   <i class="fa fa-info-circle fa-lg" aria-hidden="true"></i>
-    <p style="margin-left:1em; margin-right:1em"><b>Nationalepics.com</b> is developing in parallel with <i>National Epics</i>, a collaborative work of c. 83 or 84 chapters, to be published by Oxford University Press (UK) and edited by <a href="https://www.english.upenn.edu/people/david-wallace" target="_blank">David Wallace</a>. While <i>National Epics</i> suggests a stabilized outcome, a multi-volume book with reference value, <b>nationalepics.com</b> evokes the process of getting there, acknowledging that the nature and dynamics of nationalism, and the texts that serve or subvert it, never rest. And while most such large-scale projects develop behind closed doors, <b>nationalepics.com</b> aims to share resources and air critical issues along the way.</p>
-    <p style="margin-left:1em; margin-right:1em"> <i>National Epics</i> will run from Albania and Algeria to Vietnam and Wales, an alphabetical organization that reproduces the sovereign, Olympian starkness of nationalism. Each <i>National Epics</i> author also contributes to <b>nationalepics.com</b>, initially by briefly discussing how a designated territorial space shapes or is shaped by "epical" texts that tell its story to the world. Collectively and cumulatively, we will help augment the emergent disciplinary field known as critical nationalism studies.</p>
+    <div v-for="section in sections" :key="section.id">
+    <div v-html="section.body"> </div>
+    </div>
   </div>
 </template>
 
 <script>
+import axios from 'axios'
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { onMounted } from "vue";
@@ -15,6 +17,19 @@ import { createApp, defineComponent, ref, nextTick } from "vue";
 import MyPopup from "@/components/MyPopup.vue";
 
 export default {
+  data: function() {
+      return {
+        sections: {}
+      };
+    },
+    created () {
+
+      axios
+        .get("https://raw.githubusercontent.com/upenndigitalscholarship/natl-epics/main/information.json")
+        .then(response => (this.sections = response.data.sections))
+        .catch(err => console.error(err));
+    
+      },
     components: {
     },
   setup() {
@@ -209,7 +224,7 @@ export default {
         let country = e.features[0].properties;
           new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML('<h1><br><br>' + country.name + '</h1>' + '<br>' +'<img width="90%" style="float:center; display: block; margin-left:auto; margin-right:auto" src="'+ country.image +'">' + '<br><p>' + country.description + '</p><p>' + country.author + '<br>' + country.email + '<br>' + country.website + '</p>')            
+            .setHTML('<h1><br><br>' + country.name + '</h1>' + '<br>' +'<img width="90%" style="float:center; display: block; margin-left:auto; margin-right:auto" src="'+ country.image +'">' + '<p><i>' + country.caption + '</i></p><p>' + country.description + '</p><p>' + country.author + '<br>' + country.email + '<br>' + country.website + '</p>')            
             .addTo(map);
           const MyNewPopup = defineComponent({
             extends: MyPopup,
