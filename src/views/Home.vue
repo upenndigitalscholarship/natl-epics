@@ -174,13 +174,18 @@ export default {
         "minzoom":1,
         'layout':{
           "icon-image":"custom-marker",
+          "icon-size": 1,
+          "icon-allow-overlap": true,
+          "text-allow-overlap": false,
+          "icon-ignore-placement":true,
+          "text-ignore-placement":false,
           'text-field': ['get', 'title'],
           'text-font': [
             'Open Sans Semibold',
             'Arial Unicode MS Bold'
             ],
             'text-offset': [0, 1.25],
-            'text-anchor': 'top'
+            'text-variable-anchor': ['top','bottom','left','right']
         },
         'paint':{
             "text-color": "#696969",
