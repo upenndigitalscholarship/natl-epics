@@ -7,6 +7,7 @@
       <router-link to="/about" class="nav-item">ABOUT</router-link>
       <router-link to="/teaching" class="nav-item">TEACHING</router-link>
       <router-link to="/posts" class="nav-item">POSTS</router-link>
+      <router-link to="/lecture" class="nav-item">LECTURE</router-link>
 
   </div>
   <router-view />
