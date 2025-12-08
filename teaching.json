@@ -8,7 +8,7 @@
 	{
 		"id":2,
 		"title":"Links",
-		"body":"<p><a>https://edblogs.columbia.edu/worldepics/</a></p>"
+		"body":"<a href="https://edblogs.columbia.edu/worldepics/">https://edblogs.columbia.edu/worldepics/</a>"
 	}
 ]
 }
